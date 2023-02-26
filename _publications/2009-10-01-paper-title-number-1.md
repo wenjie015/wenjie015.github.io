@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-02-08
+venue: 'Chinese Physics B'
+paperurl: 'https://doi.org/10.1088/1674-1056/acb9f3'
+citation: 'Jie Wen, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI, IF=1.652)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+#This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1088/1674-1056/acb9f3)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jie Wen, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI, IF=1.652)
