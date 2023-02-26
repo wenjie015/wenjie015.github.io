@@ -32,7 +32,7 @@ Journal Papers (As first/corresponding author, 14 SCI)
 Conference Papers (As first/corresponding author)
 ======
 1. Jie Wen\*, Jikuo Wu, and Yukai Tian, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
-2. Yanru Yang, Jie Wen\*, Yuanhao Shi, Jianfang Jia, Mengwei Li, and Jianchao Zeng, Remaining Useful Life Prediction of Lithium-ion Batteries Based on the Discharge Voltage, 2021 China Automation Congress, Beijing, 2021: 10.22-10.24. (EI)
+2. Yanru Yang, Jie Wen\*, Yuanhao Shi, Jianfang Jia, Mengwei Li, and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-ion Batteries Based on the Discharge Voltage](https://doi.org/10.1109/CAC53003.2021.9727840), 2021 China Automation Congress, Beijing, 2021: 10.22-10.24. (EI)
 3. Jie Wen∗, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng∗, [Optimal Soot Blowing Strategies in Boiler Systems with Variable Steam Flow](https://doi.org/10.23919/ChiCC.2018.8484204), The 37th Chinese Control Conference, Wuhan, 2018: 7.25-8.27. (EI).
 4. Shuang Cong\*, Jie Wen, Fangfang Meng, and Kezhi Li, [Global Stabilization of Mixed-states for Stochastic Quantum Systems via Switching Control](https://doi.org/10.1016/j.ifacol.2017.08.2001), The 18th World Congress of the International Federation of Automatic Control, Toulouse, 2017: 7.9-7.14. (EI).
 5. Jie Wen\*, Yuanhao Shi, and Xiaonong Lu, [Stabilizing a Rotary Inverted Pendulum Based on Lyapunov Stability Theorem](https://doi.org/10.1109/CCDC.2017.7978173), The 29th Chinese Control and Decision Conference, Chongqing, 2017: 5.28-5.30. (EI)
