@@ -10,7 +10,7 @@ redirect_from:
 
 I received the B.S. degree in Automation and the Ph.D. degree in Control Science and Engineering from [University of Science and Technology of China](http://www.ustc.edu.cn/), Hefei, Anhui, China, in 2010 and 2015, respectively. From June 2015 to June 2017, I was a Lecturer with [School of Computer Science and Control Engineering](http://cst.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/). Since July 2017, I am a Lecturer with [School of Electrical and Control Engineering](http://ece.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/).
 
-Research Highlights
+Research Interests
 ======
 * Quantum Systems Control
 * Prognostic and Health Management
