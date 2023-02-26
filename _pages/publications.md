@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Journal Paper
+======
+* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
+* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
+* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+
+Conference Paper
+======
+* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
+* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
+* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
