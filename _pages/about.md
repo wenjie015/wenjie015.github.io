@@ -20,7 +20,7 @@ Research Highlights
 
 Selected Journal Publications
 ======
-1. Jie Wen$^*,#}$, Fangmin Wang^#, Yuanhao Shi, Jianfang Jia and Jianchao Zeng^*, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI, IF=1.652)
+1. Jie Wen$^{*,#}$, Fangmin Wang^#, Yuanhao Shi, Jianfang Jia and Jianchao Zeng^*, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI, IF=1.652)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
