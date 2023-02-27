@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +7,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+The core information can be found in [CV](https://wenjie015.github.io/wenjie/)
 
 Education
 ======
