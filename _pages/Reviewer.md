@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Review Work/
+permalink: /Reviewer/
 author_profile: true
 redirect_from:
   - /resume
