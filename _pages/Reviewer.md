@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Review Work"
 permalink: /Reviewer/
 author_profile: true
 redirect_from:
