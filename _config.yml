@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie WEN"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jie WEN"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wenjie015"
+  github           : "wenjie015"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "https://weibo.com/u/1719816521"
+  weibo            : "206303022"
   xing             :
   youtube          :
   wikipedia        :
