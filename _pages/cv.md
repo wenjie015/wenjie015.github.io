@@ -88,8 +88,8 @@ Publications
 	5. Xiaoqiong PANG, Zhen ZHAO#, Jie WEN, Yuanhao SHI, Jianfang JIA, Jianchao ZENG and Yuanchang DONG, An Interval Prediction Approach Based on Fuzzy Information Granulation and Linguistic Description for Remaining Useful Life of Lithium-ion Batteries, Journal of Power Sources, 2022, 542: 231750. (SCI)
 	6. Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Exponential Stabilization of Spin-1/2 Systems Based on Switching State Feedback, Romanian Journal of Physics, 2022, 67(9-10): 119. (SCI)
 	7. Jie WEN, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Feedback exponential stabilization of stochastic quantum systems based on state space division, Results in Physics, 2022, 37: 105525. (SCI)
-	8. Jianfang JIA∗, Shufang YUAN, Yuanhao SHI, Jie WEN, Xiaoqiong PANG and Jianchao ZENG, Improved Sparrow Search Algorithm Optimization Deep Extreme Learning Machine for Lithium-ion Battery State-of-health Prediction, iScience, 2022, 25(4): 103988. (SCI)
-	9. Jie WEN∗, Yuanhao SHI, Xiaoqiong PANG and Jianfang JIA, Optimal Soot Blowing and Repair Plan for Boiler Based on HJB Equation, Optimization, 2022, 71(16): 4603-4622 (SCI)
+	8. Jianfang JIA, Shufang YUAN, Yuanhao SHI, Jie WEN, Xiaoqiong PANG and Jianchao ZENG, Improved Sparrow Search Algorithm Optimization Deep Extreme Learning Machine for Lithium-ion Battery State-of-health Prediction, iScience, 2022, 25(4): 103988. (SCI)
+	9. Jie WEN, Yuanhao SHI, Xiaoqiong PANG and Jianfang JIA, Optimal Soot Blowing and Repair Plan for Boiler Based on HJB Equation, Optimization, 2022, 71(16): 4603-4622 (SCI)
 * 2021
 	1. Xiaoqiong PANG, Xiaoyan LIU, Jianfang Jia, Jie WEN, Yuanhao SHI, Jianchao ZENG and Zhen ZHAO, A lithium-ion battery remaining useful life prediction method based on the incremental capacity analysis and Gaussian process regression, Microelectronics Reliability, 2021, 127: 114405. (SCI)
 	2. Yanru YANG, Jie WEN, Yuanhao SHI, Jianfang JIA, Mengwei LI and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-ion Batteries based on the Discharge Voltage, 2021 China Automation Congress, Beijing, 2021: 10.22-10.24. (EI)
@@ -116,7 +116,7 @@ Considering Ash Fouling, Energies, 2021, 14(13): 4000. (SCI)
 	5. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Optimization of Boiler Soot Blowing Based on Hamilton-Jacobi-Bellman Equation, IEEE Access, 2019, 7(1): 20850-20862. (SCI)
 * 2018
 	1. Jie WEN, Yuanhao SHI and Xiaonong LU, Stabilizing a Class of Mixed States for Stochastic Quantum Systems via Switching Control, Journal of The Franklin Institute, 2018, 355(5): 2562-2582. (SCI)
-	2. Zhuqing WANG∗, Xiaoqiong PANG, Rui HUANG, Jianfang JIA, Yuanhao SHI and Jie WEN, KPCA-ANFIS based Remaining Useful Life Prediction of Lithium-ion Battery, Journal of Electronic Measurement and Instrumentation, 2018, 32(10): 26-32.
+	2. Zhuqing WANG, Xiaoqiong PANG, Rui HUANG, Jianfang JIA, Yuanhao SHI and Jie WEN, KPCA-ANFIS based Remaining Useful Life Prediction of Lithium-ion Battery, Journal of Electronic Measurement and Instrumentation, 2018, 32(10): 26-32.
 	3. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Optimal Soot Blowing Strategies in Boiler Systems with Variable Steam Flow, The 37th Chinese Control Conference, Wuhan, 2018: 7.25-8.27. (EI)
 	4. Yuanhao SHI, Jie WEN, Xiaoqiong PANG, Jianfang JIA, Fangshu CUI, Jianchao ZENG, and Jingcheng Wang, Preventive Soot Blowing Strategy based on State of Health Prediction for Coal-fired Power Plant Boiler, The 37th Chinese Control Conference, Wuhan, 2018: 7.25-8.27. (EI)
 * 2017
