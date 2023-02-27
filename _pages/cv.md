@@ -84,7 +84,7 @@ Publications
 	1. Jie WEN, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
 	2. Yukai TIAN, Jie WEN, Yanru YANG, Yuanhao SHI and Jianchao ZENG, State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM, Batteries, 2022, 8(10): 155. (SCI)
 	3. Yuanhao SHI, Mengwei LI, Jie WEN, Yanru YANG and Jianchao ZENG, Deep Learning-Based Approach for Heat Transfer Efficiency Prediction with Deep Feature Extraction, ACS Omega, 2022, 7(35): 31013–31035. (SCI)
-	4. Jie WEN∗, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG∗, Global Exponential Stabilization of Eigenstates for Quantum Spin-1/2 Systems via Improved Feedback Control, Journal of The Franklin Institute, online, Aug 15, 2022. (SCI)
+	4. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG∗, Global Exponential Stabilization of Eigenstates for Quantum Spin-1/2 Systems via Improved Feedback Control, Journal of The Franklin Institute, online, Aug 15, 2022. (SCI)
 	5. Xiaoqiong PANG, Zhen ZHAO#, Jie WEN, Yuanhao SHI, Jianfang JIA, Jianchao ZENG and Yuanchang DONG, An Interval Prediction Approach Based on Fuzzy Information Granulation and Linguistic Description for Remaining Useful Life of Lithium-ion Batteries, Journal of Power Sources, 2022, 542: 231750. (SCI)
 	6. Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Exponential Stabilization of Spin-1/2 Systems Based on Switching State Feedback, Romanian Journal of Physics, 2022, 67(9-10): 119. (SCI)
 	7. Jie WEN, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Feedback exponential stabilization of stochastic quantum systems based on state space division, Results in Physics, 2022, 37: 105525. (SCI)
@@ -105,13 +105,13 @@ Considering Ash Fouling, Energies, 2021, 14(13): 4000. (SCI)
 	10. Jianfang JIA, Keke WANG, Xiaoqiong PANG, Yuanhao SHI, Jie WEN, and Jianchao ZENG, Multi-Scale Prediction of RUL and SOH for Lithium-Ion Batteries Based on WNN-UPF Combined Model, Chinese Journal of Electronics, 2021, 30(1): 26-35. (SCI)
 * 2020
 	1. Yanru YANG, Jie WEN, Yuanhao SHI, Zehui ZHANG and Wenhai LIU, Remaining Useful Life Prediction for Lithium-ion Battery Based on CEEMDAN and SVR, Journal of Electronic Measurement and Instrumentation, 2020, 34(12): 197-205.
-	2. Mengwei LI, Yuanhao SHI∗, Fangshu CUI, Jie WEN, and Jianchao ZENG, Research on Gray Prediction of Heated Surface Combining Empirical Mode Decomposition and Long Short-term Memory Network, The 16th IEEE International Conference on Control, Automation, Robotics and Vision, Shenzhen, 2020: 12.13-12.15. (EI)
+	2. Mengwei LI, Yuanhao SHI, Fangshu CUI, Jie WEN, and Jianchao ZENG, Research on Gray Prediction of Heated Surface Combining Empirical Mode Decomposition and Long Short-term Memory Network, The 16th IEEE International Conference on Control, Automation, Robotics and Vision, Shenzhen, 2020: 12.13-12.15. (EI)
 	3. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA, and Jianchao ZENG, Rapid Stabilization of Time Delay Stochastic Quantum Systems based on Continuous Measurement Feedback, Journal of The Franklin Institute, 2020, 357(12): 7515-7536. (SCI)
 	4. Jianfang JIA, Jianyu LIANG, Yuanhao SHI, Jie WEN, Xiaoqiong PANG, and Jianchao ZENG, SOH and RUL Prediction of Lithium-Ion Batteries Based on Gaussian Process Regression with Indirect Health Indicators, Energies, 2020, 13(2), 375. (SCI)
 * 2019
 	1. Yuanhao SHI, Qiang LI, Jie WEN, Fangshu CUI, Xiaoqiong PANG, Jianfang JIA, Jianchao ZENG and Jingcheng WANG, Soot Blowing Optimization for Frequency in Economizers to Improve Boiler Performance in Coal-Fired Power Plant, Energies, 2019, 12(15), 2901. (SCI)
-	2. Xiaoqiong PANG∗, Rui HUANG, Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, A Lithium-ion Battery RUL Prediction Method Considering the Capacity Regeneration Phenomenon, Energies, 2019, 12(12), 2247. (SCI)
-	3. Xiaoqiong PANG∗, Zhuqing WANG, Jianchao ZENG, Jianfang JIA, Yuanhao SHI and Jie WEN, Prediction for the Remaining Useful Life of Lithium-ion Battery Based on PCA-NARX, Transactions of Beijing Institute of Technology, 2019, 39(4): 406-412. (EI)
+	2. Xiaoqiong PANG, Rui HUANG, Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, A Lithium-ion Battery RUL Prediction Method Considering the Capacity Regeneration Phenomenon, Energies, 2019, 12(12), 2247. (SCI)
+	3. Xiaoqiong PANG, Zhuqing WANG, Jianchao ZENG, Jianfang JIA, Yuanhao SHI and Jie WEN, Prediction for the Remaining Useful Life of Lithium-ion Battery Based on PCA-NARX, Transactions of Beijing Institute of Technology, 2019, 39(4): 406-412. (EI)
 	4. Yuanhao SHI, Jie WEN, Fangshu CUI, and Jingcheng WANG, An Optimization Study on Soot-Blowing of Air Preheaters in Coal-Fired Power Plant Boilers, Energies, 2019, 12(5), 958. (SCI)
 	5. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Optimization of Boiler Soot Blowing Based on Hamilton-Jacobi-Bellman Equation, IEEE Access, 2019, 7(1): 20850-20862. (SCI)
 * 2018
