@@ -6,8 +6,16 @@ main:
   - title: "Publications"
     url: /publications/
 
+    
+  - title: "Grants"
+    url: /Grant/
+    
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+    
+     
+  - title: "Review Work"
+    url: /Reviewer/
 
   - title: "Teaching"
     url: /teaching/    
