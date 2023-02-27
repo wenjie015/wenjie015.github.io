@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Grants/
+permalink: /Grant/
 author_profile: true
 redirect_from:
   - /resume
