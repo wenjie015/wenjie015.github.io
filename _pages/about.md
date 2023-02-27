@@ -12,8 +12,13 @@ I received the B.S. degree in Automation and the Ph.D. degree in Control Science
 
 Education
 ======
-* 2010.9-2015.6, Ph.D., Control Science and Engineering, [University of Science and Technology of China](http://www.ustc.edu.cn/)
-* 2006.9-2010.7, B.S., Automation, [University of Science and Technology of China](http://www.ustc.edu.cn/)
+* Ph.D., 2010.9-2015.6, Control Science and Engineering, [University of Science and Technology of China](http://www.ustc.edu.cn/)
+* B.S., 2006.9-2010.7, Automation, [University of Science and Technology of China](http://www.ustc.edu.cn/)
+
+Working Experience
+======
+* Lecturer, Jul. 2017–present. [School of Electrical and Control Engineering](http://ece.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/)
+* Lecturer, Jun. 2015– Jun. 2017. [School of Computer Science and Control Engineering](http://cst.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/)
 
 Research Interests
 ======
