@@ -1,0 +1,52 @@
+---
+layout: archive
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Journals
+======
+* Automatica
+* IEEE Journal on Selected Areas in Communications
+* IEEE Transactions on Systems, Man and Cybernetics: Systems
+* IEEE Network
+* IEEE Transactions on Cybernetics
+* Energy
+* Journal of The Franklin Institute
+* Journal of Energy Storage
+* Journal of The Electrochemical Society
+* IET Control Theory & Applications
+* Scientific Reports
+* IEEE Access
+* Sensors
+* Franklin Open
+* Automatika
+* Mathematical Problems in Engineering
+* Canadian Journal of Chemical Engineering
+* Journal of Measurement Science and Instrumentation
+* Journal of Computational Methods in Sciences and Engineering
+* British Journal of Mathematics & Computer Science
+* Asian Research Journal of Mathematics
+* International Journal of Computing and Digital Systems
+
+Conferences
+======
+* TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
+* TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
+* TPC Member, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
+* Session Chair, The 32th Chinese Process Control Conference, CPCC 2021
+* TPC Member, 2021 IEEE Globecom Workshops: Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things, GC 2021 Workshop - 6GIoT
+* TPC Member, 2021 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications & Computing, Globecom 2021
+* TPC Member, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
+* International Conference on Data Analytics for Business and Industry, DATA 2020
+* International Conference on Decision Aid Sciences and Applications, DASA 2020, DASA2022
+* International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023
+* TPC Member, IEEE GLOBECOM Workshop on Quantum Communications and Information Technology, GC 2018 Workshop-QCIT, GC 2019 Workshop-QCIT, GC 2020 Workshop-QCIT
+* Session Co-Chair, The 37th Chinese Control Conference, CCC 2018
+* The 18th IFAC Symposium on System Identification, SYSID 2018
+* The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
+* The 29th Chinese Control and Decision Conference, CCDC 2017
