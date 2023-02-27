@@ -36,4 +36,4 @@ Selected Journal Publications
 
 For more information
 ------
-More info about Jie Wen can be found in [CV](https://wenjie015.github.io/wenjie/).
+More info about Jie Wen can be found in [CV](https://wenjie015.github.io/cv/).
