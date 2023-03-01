@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News"
-    url: /year-archive/
+  #- title: "News"
+   # url: /year-archive/
     
   - title: "Publications"
     url: /publications/
@@ -14,13 +14,13 @@ main:
     url: /talks/  
     
      
-  - title: "Review Work"
+  - title: "Review Works"
     url: /Reviewer/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Student"
+  - title: "Students"
     url: /student/
     
   - title: "CV"
