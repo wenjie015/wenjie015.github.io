@@ -30,9 +30,9 @@ Journal Papers (As first/corresponding author, 14 SCI)
 13. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, [Optimization of Boiler Soot Blowing Based on Hamilton-Jacobi-Bellman Equation](https://doi.org/10.1109/ACCESS.2019.2897362), IEEE Access, 2019, 7(1): 20850-20862. (SCI, IF=3.476)
 14. **Jie Wen**\*, Yuanhao Shi, and Xiaonong Lu, [Stabilizing a Class of Mixed States for Stochastic Quantum Systems via Switching Control](https://doi.org/10.1016/j.jfranklin.2018.01.031), Journal of The Franklin Institute, 2018, 355(5): 2562-2582. (SCI, IF=4.246)
 15. **Jie Wen**\*, Yuanhao Shi, and Xiaonong Lu, [Stabilizing a Rotary Inverted Pendulum Based on Logarithmic Lyapunov Function](https://doi.org/10.1155/2017/4091302), Journal of Control Science and Engineering, 2017, 2017: 4091302. (EI)
-16. Shuang Cong\*, **Jie Wen**, Sen Kuang, and Fangfang Meng, [Global Stabilization Control of Stochastic Quantum Systems](https://doi.org/10.1007/s11432-015- 0911-7), Science China Information Sciences, 2016, 59(11): 112502. (SCI, IF=7.275)
-17. **Jie Wen** and Shuang Cong\*, [Preparation of Quantum Gates for Open Quantum Systems by Lyapunov Control Method](https://doi.org/10.1142/ S1230161216500050), Open Systems & Information Dynamics, 2016, 23(01): 1650005. (SCI, IF=0.571)
-18. Shuang Cong\*, **Jie Wen**, and Xubo Zou, [Comparison of Time Optimal Control for Two Level Quantum Systems](https://doi.org/10.1109/ JSEE.2014.00011), Journal of Systems Engineering and Electronics, 2014, 25(1): 95-103. (SCI, IF=1.363)
+16. Shuang Cong\*, **Jie Wen**, Sen Kuang, and Fangfang Meng, [Global Stabilization Control of Stochastic Quantum Systems](https://doi.org/10.1007/s11432-015-0911-7), Science China Information Sciences, 2016, 59(11): 112502. (SCI, IF=7.275)
+17. **Jie Wen** and Shuang Cong\*, [Preparation of Quantum Gates for Open Quantum Systems by Lyapunov Control Method](https://doi.org/10.1142/S1230161216500050), Open Systems & Information Dynamics, 2016, 23(01): 1650005. (SCI, IF=0.571)
+18. Shuang Cong\*, **Jie Wen**, and Xubo Zou, [Comparison of Time Optimal Control for Two Level Quantum Systems](https://doi.org/10.1109/JSEE.2014.00011), Journal of Systems Engineering and Electronics, 2014, 25(1): 95-103. (SCI, IF=1.363)
 
 Conference Papers (As first/corresponding author)
 ======
