@@ -10,7 +10,7 @@ redirect_from:
 
 Papers Under Review
 ======
-1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, under review, Jan 7, 2023.
+1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, major revision, Mar 8, 2023.
 2. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Time-delay Quantum Systems Based on Continuous Measurement Feedback, Journal of The Franklin Institute, under review (2nd round), Feb 20, 2023.
 
 Journal Papers (As first/corresponding author, 14 SCI)
@@ -21,8 +21,8 @@ Journal Papers (As first/corresponding author, 14 SCI)
 4. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, [Global Exponential Stabilization of Quantum Spin-1/2 Systems via Improved Feedback Control](https://doi.org/10.1016/j.jfranklin.2022.08.009), Journal of The Franklin Institute, online, Aug 15, 2022. (SCI, IF=4.246)
 5. **Jie Wen**\*, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng, [Exponential Stabilization of Spin-1/2 Systems Based on Switching State Feedback](https://rjp.nipne.ro/2022_67_9-10/RomJPhys.67.119.pdf), Romanian Journal of Physics, 2022, 67(9-10): 119. (SCI, IF=1.662)
 6. **Jie Wen**\*, Fangmin Wang#, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Feedback Exponential Stabilization of Stochastic Quantum Systems Based on State Space Division](https://doi.org/10.1016/j.rinp.2022.105525), Results in Physics, 2022, 37: 105525. (SCI, IF=4.565)
-7. **Jie Wen**\*, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Exponential Stabilization of Stochastic Quantum Systems via Combined Feedback](https://doi.org/10.1016/j.rinp.2021.104862), Results in Physics, 2021, 30: 104862. (SCI, IF=4.565)
-8. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, and Jianfang Jia, [Optimal Soot Blowing and Repair Plan for Boiler Based on HJB Equation](https://doi.org/10.1080/02331934.2021.1954922), Optimization, 2022, 71(16): 4603-4622. (SCI, IF=2.456)
+7. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, and Jianfang Jia, [Optimal Soot Blowing and Repair Plan for Boiler Based on HJB Equation](https://doi.org/10.1080/02331934.2021.1954922), Optimization, 2022, 71(16): 4603-4622. (SCI, IF=2.456)
+8. **Jie Wen**\*, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Exponential Stabilization of Stochastic Quantum Systems via Combined Feedback](https://doi.org/10.1016/j.rinp.2021.104862), Results in Physics, 2021, 30: 104862. (SCI, IF=4.565)
 9. Yanru Yang, **Jie Wen**\*, Yuanhao Shi, and Jianchao Zeng\*, [State of Health Prediction of Lithium- ion Batteries Based on the Discharge Voltage and Temperature](https://doi.org/10.3390/electronics10121497), Electronics, 2021, 10(12): 1497. (SCI, IF=2.690)
 10. **Jie Wen**\*, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Exponential Stabilization of Two-level Quantum Systems Based on Continuous Noise-assisted Feedback](https://doi.org/10.1016/j.rinp.2021.103929), Results in Physics, 2021, 22: 103929. (SCI, IF=4.565)
 11. 杨彦茹, **温杰**\*, 史元浩, 张泽慧, 刘文海, [基于CEEMDAN和SVR的锂离子电池剩余使用寿命预测](https://doi.org/10.13382/j.jemi.B2003108), 电子测量与仪器学报, 2020, 34(12): 197-205.
