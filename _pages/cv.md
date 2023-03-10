@@ -106,24 +106,24 @@ Considering Ash Fouling, Energies, 2021, 14(13): 4000. (SCI)
 	9. Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Exponential Stabilization of Two-level Quantum Systems Based on Continuous Noise-assisted Feedback, Results in Physics, 2021, 22: 103929. (SCI)
 	10. Jianfang JIA, Keke WANG, Xiaoqiong PANG, Yuanhao SHI, Jie WEN, and Jianchao ZENG, Multi-Scale Prediction of RUL and SOH for Lithium-Ion Batteries Based on WNN-UPF Combined Model, Chinese Journal of Electronics, 2021, 30(1): 26-35. (SCI)
 * 2020
-	1. Yanru YANG, Jie WEN, Yuanhao SHI, Zehui ZHANG and Wenhai LIU, Remaining Useful Life Prediction for Lithium-ion Battery Based on CEEMDAN and SVR, Journal of Electronic Measurement and Instrumentation, 2020, 34(12): 197-205.
+	1. 杨彦茹, 温杰*, 史元浩, 张泽慧, 刘文海, 基于CEEMDAN和SVR的锂离子电池剩余使用寿命预测, 电子测量与仪器学报, 2020, 34(12): 197-205.
 	2. Mengwei LI, Yuanhao SHI, Fangshu CUI, Jie WEN, and Jianchao ZENG, Research on Gray Prediction of Heated Surface Combining Empirical Mode Decomposition and Long Short-term Memory Network, The 16th IEEE International Conference on Control, Automation, Robotics and Vision, Shenzhen, 2020: 12.13-12.15. (EI)
 	3. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA, and Jianchao ZENG, Rapid Stabilization of Time Delay Stochastic Quantum Systems based on Continuous Measurement Feedback, Journal of The Franklin Institute, 2020, 357(12): 7515-7536. (SCI)
 	4. Jianfang JIA, Jianyu LIANG, Yuanhao SHI, Jie WEN, Xiaoqiong PANG, and Jianchao ZENG, SOH and RUL Prediction of Lithium-Ion Batteries Based on Gaussian Process Regression with Indirect Health Indicators, Energies, 2020, 13(2), 375. (SCI)
 * 2019
 	1. Yuanhao SHI, Qiang LI, Jie WEN, Fangshu CUI, Xiaoqiong PANG, Jianfang JIA, Jianchao ZENG and Jingcheng WANG, Soot Blowing Optimization for Frequency in Economizers to Improve Boiler Performance in Coal-Fired Power Plant, Energies, 2019, 12(15), 2901. (SCI)
 	2. Xiaoqiong PANG, Rui HUANG, Jie WEN, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, A Lithium-ion Battery RUL Prediction Method Considering the Capacity Regeneration Phenomenon, Energies, 2019, 12(12), 2247. (SCI)
-	3. Xiaoqiong PANG, Zhuqing WANG, Jianchao ZENG, Jianfang JIA, Yuanhao SHI and Jie WEN, Prediction for the Remaining Useful Life of Lithium-ion Battery Based on PCA-NARX, Transactions of Beijing Institute of Technology, 2019, 39(4): 406-412. (EI)
+	3. 庞晓琼, 王竹晴, 曾建潮, 贾建芳, 史元浩, 温杰, 基于PCA-NARX的锂离子电池剩余使用寿命预测, 北京理工大学学报, 2019, 39(4): 406-412. (EI)
 	4. Yuanhao SHI, Jie WEN, Fangshu CUI, and Jingcheng WANG, An Optimization Study on Soot-Blowing of Air Preheaters in Coal-Fired Power Plant Boilers, Energies, 2019, 12(5), 958. (SCI)
 	5. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Optimization of Boiler Soot Blowing Based on Hamilton-Jacobi-Bellman Equation, IEEE Access, 2019, 7(1): 20850-20862. (SCI)
 * 2018
 	1. Jie WEN, Yuanhao SHI and Xiaonong LU, Stabilizing a Class of Mixed States for Stochastic Quantum Systems via Switching Control, Journal of The Franklin Institute, 2018, 355(5): 2562-2582. (SCI)
-	2. Zhuqing WANG, Xiaoqiong PANG, Rui HUANG, Jianfang JIA, Yuanhao SHI and Jie WEN, KPCA-ANFIS based Remaining Useful Life Prediction of Lithium-ion Battery, Journal of Electronic Measurement and Instrumentation, 2018, 32(10): 26-32.
+	2. 王竹晴, 庞晓琼, 黄蕊, 贾建芳, 史元浩, 温杰, 基于KPCA-ANFIS的锂离子电池RUL预测, 电子测量与仪器学报, 2018, 32(10): 26-32.
 	3. Jie WEN, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Optimal Soot Blowing Strategies in Boiler Systems with Variable Steam Flow, The 37th Chinese Control Conference, Wuhan, 2018: 7.25-8.27. (EI)
 	4. Yuanhao SHI, Jie WEN, Xiaoqiong PANG, Jianfang JIA, Fangshu CUI, Jianchao ZENG, and Jingcheng Wang, Preventive Soot Blowing Strategy based on State of Health Prediction for Coal-fired Power Plant Boiler, The 37th Chinese Control Conference, Wuhan, 2018: 7.25-8.27. (EI)
 * 2017
 	1. Jie WEN, Yuanhao SHI and Xiaonong LU, Stabilizing a Rotary Inverted Pendulum Based on Logarithmic Lyapunov Function, Journal of Control Science and Engineering, 2017, 2017: 4091302. (EI)
-	2. Yuedong WANG, Du LIN, Hao XIAN, Jie WEN, and Wei LIANG, Research on the Control Method of Aeroengine Based on Lyapunov Function, Sci-tech Innovation and Productivity, 2017, 281: 110-113.
+	2. 王月东, 林都, 鲜浩, 温杰, 梁伟, 基于Lyapunov函数的航空发动机控制方法的研究, 科技创新与生产力, 2017, 281: 110-113.
 	3. Yuanhao SHI, Jie WEN, Jingcheng WANG, Prediction Model of Ash Fouling for Air Pre-Heaters in Coal-fired Power Plant Boiler, The 28th Chinese Process Control Conference, Chongqing, 2017: 7.30-8.01.
 	4. Shuang CONG, Jie WEN, Fangfang MENG and Kezhi LI, Global Stabilization of Mixed-states for Stochastic Quantum Systems via Switching Control, The 20th World Congress of the International Federation of Automatic Control, Toulouse, 2017: 7.09-7.14. (EI)
 	5. Jie WEN, Yuanhao SHI and Xiaonong LU, Stabilizing a Rotary Inverted Pendulum Based on Lyapunov Stability Theorem, The 29th Chinese Control and Decision Conference, Chongqing, 2017: 5.28-5.30. (EI)
@@ -134,7 +134,7 @@ Considering Ash Fouling, Energies, 2021, 14(13): 4000. (SCI)
 	3. Shuang CONG, Jie WEN, Sen KUANG and Fangfang MENG, Global Stabilization of an Eigenstate for Stochastic Quantum Systems, IEEE International Conference on Control & Automation, Kathmandu, 2016: 6.01-6.03. (EI)
 * Before 2016
 	1. Shuang CONG, Jie WEN and Xubo ZOU, Comparison of Time Optimal Control for Two Level Quantum Systems, Journal of Systems Engineering and Electronics, 2014, 25(1): 95-103. (SCI)
-	2. Shuang CONG, Longzhen HU, Jingjing XUE and Jie WEN, Characteristic Analysis of Stochastic Open Quantum Systems via Lyapunov-based Control, Science & Technology Review, 2014, 32(22): 15-22.
+	2. 丛爽, 胡龙珍, 薛静静, 温杰, 基于李雅普诺夫控制的随机开放量子系统特性分析, 科技导报, 2014, 32(22): 15-22.
 	3. Jie WEN, Shuang CONG, Lyapunov-based Control for the Operator Preparation in Markovian Open Quantum Systems, IEEE International Conference on Information and Automation, Hailar, 2014: 7.28-7.30. (EI)
 	4. Jie WEN, Shuang CONG and Xubo ZOU, Realization of Quantum Hadamard Gate Based on Lyapunov Method, The 10th World Congress on Intelligent Control and Automation, Beijin, 2012: 7.06-7.08. (EI)
 	5. Jie WEN, Shuang CONG, Transfer from Arbitrary Pure State to Target Mixed State for Quantum Systems, The 18th World Congress of the International Federation of Automatic Control, Milano, 2011: 8.28-9.02. (EI)
