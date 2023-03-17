@@ -25,6 +25,7 @@ Journals
 * Sensors
 * Franklin Open
 * Automatika
+* Energies
 * Asia-Pacific Journal of Chemical Engineering
 * Mathematical Problems in Engineering
 * Canadian Journal of Chemical Engineering
