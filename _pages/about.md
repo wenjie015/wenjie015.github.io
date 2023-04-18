@@ -36,11 +36,12 @@ Selected Journal Publications
 
 Contact
 ======
-Tel: +86 0351-3921523
+Tel: +86 0351-3921523  
+
 Email: [wenjie015@gmail.com](mailto:wenjie015@gmail.com)  
 School of Electrical and Control Engineering, North University of China  
 No.3, Xueyuan Road, Taiyuan, Shanxi, 030051, P.R.China  
-[https://wenjie015.github.io](https://wenjie015.github.io)
+Homepage: [https://wenjie015.github.io](https://wenjie015.github.io)
 
 For more information
 ------
