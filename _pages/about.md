@@ -18,7 +18,7 @@ Education
 Working Experience
 ======
 * Lecturer, Jul. 2017–present. [School of Electrical and Control Engineering](http://ece.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/)
-* Lecturer, Jun. 2015– Jun. 2017. [School of Computer Science and Control Engineering](http://cst.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/)
+* Lecturer, Jun. 2015–Jun. 2017. [School of Computer Science and Control Engineering](http://cst.nuc.edu.cn/), [North University of China](https://www.nuc.edu.cn/)
 
 Research Interests
 ======
