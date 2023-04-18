@@ -38,7 +38,7 @@ Contact
 ======
 Tel: +86 0351-3921523  
 Email: [wenjie015@gmail.com](mailto:wenjie015@gmail.com)  
-Department of Automation, School of Electrical and Control Engineering
+Department of Automation, School of Electrical and Control Engineering  
 North University of China  
 No.3, Xueyuan Road, Taiyuan, Shanxi, 030051, P.R.China  
 Homepage: [https://wenjie015.github.io](https://wenjie015.github.io)
