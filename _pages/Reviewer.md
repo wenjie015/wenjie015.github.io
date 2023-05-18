@@ -37,6 +37,7 @@ Journals
 
 Conferences
 ======
+* TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
 * TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
 * TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
 * TPC Member, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
