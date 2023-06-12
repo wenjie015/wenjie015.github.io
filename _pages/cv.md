@@ -42,6 +42,7 @@ Reviewer
 	+ IEEE Transactions on Systems, Man and Cybernetics: Systems
 	+ IEEE Network
 	+ IEEE Transactions on Cybernetics
+	+ Renewable and Sustainable Energy Reviews
 	+ Energy
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
