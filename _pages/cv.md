@@ -81,8 +81,9 @@ Reviewer
 Publications
 ======
 * 2023
-	1. **Jie WEN**, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI)
-	2. Yanru YANG, **Jie WEN**, Jianyu LIANG, Yuanhao SHI, Yukai TIAN and Jiang WANG, Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature, Sustainability, 2023, 15(2): 1602. (SCI, SSCI)
+	1. 董渊昌, 庞晓琼, 贾建芳, 史元浩, **温杰**, 李笑, 张鑫, 基于SVD-SAE-GPR的锂离子电池RUL预测, 储能科学与技术, 2023, 12(4): 1257-1267.
+	2. **Jie WEN**, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, online, Feb 8, 2023. (SCI)
+	3. Yanru YANG, **Jie WEN**, Jianyu LIANG, Yuanhao SHI, Yukai TIAN and Jiang WANG, Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature, Sustainability, 2023, 15(2): 1602. (SCI, SSCI)
 * 2022
 	1. **Jie WEN**, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
 	2. Yukai TIAN, **Jie WEN**, Yanru YANG, Yuanhao SHI and Jianchao ZENG, State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM, Batteries, 2022, 8(10): 155. (SCI)
@@ -107,7 +108,7 @@ Considering Ash Fouling, Energies, 2021, 14(13): 4000. (SCI)
 	9. **Jie WEN**, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Exponential Stabilization of Two-level Quantum Systems Based on Continuous Noise-assisted Feedback, Results in Physics, 2021, 22: 103929. (SCI)
 	10. Jianfang JIA, Keke WANG, Xiaoqiong PANG, Yuanhao SHI, **Jie WEN**, and Jianchao ZENG, Multi-Scale Prediction of RUL and SOH for Lithium-Ion Batteries Based on WNN-UPF Combined Model, Chinese Journal of Electronics, 2021, 30(1): 26-35. (SCI)
 * 2020
-	1. 杨彦茹, **温杰**\*, 史元浩, 张泽慧, 刘文海, 基于CEEMDAN和SVR的锂离子电池剩余使用寿命预测, 电子测量与仪器学报, 2020, 34(12): 197-205.
+	1. 杨彦茹, **温杰**, 史元浩, 张泽慧, 刘文海, 基于CEEMDAN和SVR的锂离子电池剩余使用寿命预测, 电子测量与仪器学报, 2020, 34(12): 197-205.
 	2. Mengwei LI, Yuanhao SHI, Fangshu CUI, **Jie WEN**, and Jianchao ZENG, Research on Gray Prediction of Heated Surface Combining Empirical Mode Decomposition and Long Short-term Memory Network, The 16th IEEE International Conference on Control, Automation, Robotics and Vision, Shenzhen, 2020: 12.13-12.15. (EI)
 	3. **Jie WEN**, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA, and Jianchao ZENG, Rapid Stabilization of Time Delay Stochastic Quantum Systems based on Continuous Measurement Feedback, Journal of The Franklin Institute, 2020, 357(12): 7515-7536. (SCI)
 	4. Jianfang JIA, Jianyu LIANG, Yuanhao SHI, **Jie WEN**, Xiaoqiong PANG, and Jianchao ZENG, SOH and RUL Prediction of Lithium-Ion Batteries Based on Gaussian Process Regression with Indirect Health Indicators, Energies, 2020, 13(2), 375. (SCI)
