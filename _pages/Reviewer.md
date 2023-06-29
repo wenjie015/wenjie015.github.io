@@ -19,6 +19,7 @@ Journals
 * Energy
 * Journal of The Franklin Institute
 * Journal of Energy Storage
+* Measurement
 * Journal of The Electrochemical Society
 * IET Control Theory & Applications
 * Scientific Reports
