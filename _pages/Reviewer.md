@@ -23,6 +23,7 @@ Journals
 * Journal of The Electrochemical Society
 * IET Control Theory & Applications
 * Scientific Reports
+* Batteries
 * IEEE Access
 * Sensors
 * Franklin Open
