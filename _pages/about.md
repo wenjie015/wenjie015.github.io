@@ -45,4 +45,4 @@ Homepage: [https://wenjie015.github.io](https://wenjie015.github.io)
 
 For more information
 ------
-More info about Jie Wen can be found in [CV](https://wenjie015.github.io/cv/).
+More info about me can be found in [CV](https://wenjie015.github.io/cv/).
