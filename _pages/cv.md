@@ -86,7 +86,7 @@ Publications
 	1. Xiaoqiong PANG, Zhen ZHAO, **Jie WEN**, Jianfang JIA, Yuanhao SHI, Jianchao ZENG and Lixin ZHANG, Considering the self-adaptive segmentation of time series in interval prediction of remaining useful life for lithium-ion battery, Journal of Energy Storage, 2023, 70: 107862. (SCI)
 	2. 董渊昌, 庞晓琼, 贾建芳, 史元浩, **温杰**, 李笑, 张鑫, 基于SVD-SAE-GPR的锂离子电池RUL预测, 储能科学与技术, 2023, 12(4): 1257-1267.
 	3. **Jie WEN**, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, 2023, 32: 070203. (SCI)
- 	4. Yanru YANG, **Jie WEN**, Jianyu LIANG, Yuanhao SHI, Yukai TIAN and Jiang WANG, Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature, Sustainability, 2023, 15(2): 1602. (SSCI, SCI)
+ 	4. 123
 * 2022
 	1. **Jie WEN**, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
 	2. Yukai TIAN, **Jie WEN**, Yanru YANG, Yuanhao SHI and Jianchao ZENG, State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM, Batteries, 2022, 8(10): 155. (SCI)
