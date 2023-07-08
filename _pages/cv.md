@@ -47,6 +47,7 @@ Reviewer
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
+	+ Measurement
 	+ IET Control Theory & Applications
 	+ Scientific Reports
 	+ IEEE Access
