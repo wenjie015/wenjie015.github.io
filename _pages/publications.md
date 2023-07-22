@@ -15,7 +15,7 @@ Papers Under Review
 
 Journal Papers (As first/corresponding author, 14 SCI)
 ======
-1. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework](https://doi.org/10.1088/1674-1056/acb9f3), Chinese Physics B, 2023, 32: 070203. (SCI, IF=1.7)
+1. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework](https://doi.org/10.1088/1674-1056/acb9f3), Chinese Physics B, 2023, 32(7): 070203. (SCI, IF=1.7)
 2. Yanru Yang, **Jie Wen**\*, Jianyu Liang, Yuanhao Shi, Yukai Tian, and Jiang Wang, [Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature](https://doi.org/10.3390/su15021602), Sustainability, 2023, 15(2): 1602. (SCI, SSCI, IF=3.9)
 3. Yukai Tian, **Jie Wen**\*, Yanru Yang, Yuanhao Shi, and Jianchao Zeng, [State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM](https://doi.org/10.3390/batteries8100155), Batteries, 2022, 8(10): 155. (SCI, IF=4.0)
 4. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, [Global Exponential Stabilization of Quantum Spin-1/2 Systems via Improved Feedback Control](https://doi.org/10.1016/j.jfranklin.2022.08.009), Journal of The Franklin Institute, online, Aug 15, 2022. (SCI, IF=4.1)
