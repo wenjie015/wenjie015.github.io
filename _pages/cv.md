@@ -88,8 +88,8 @@ Publications
 3. **Jie WEN**, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, 2023, 32(7): 070203. (SCI)
 4. Xiaoqiong PANG, Zhen ZHAO, **Jie WEN**, Jianfang JIA, Yuanhao SHI, Jianchao ZENG and Lixin ZHANG, Considering the self-adaptive segmentation of time series in interval prediction of remaining useful life for lithium-ion battery, Journal of Energy Storage, 2023, 70: 107862. (SCI)
 * 2022
-	1. **Jie WEN**, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
- 2. Yuanhao SHI, Tianxiang HAN, Fangshu CUI, **Jie WEN** and Gangzhu QIAO, A GM-TCN based Hybrid Prediction Method for Ash Fouling Prediction in Coal-fired Power Plant Boiler, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
+1. **Jie WEN**, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
+2. Yuanhao SHI, Tianxiang HAN, Fangshu CUI, **Jie WEN** and Gangzhu QIAO, A GM-TCN based Hybrid Prediction Method for Ash Fouling Prediction in Coal-fired Power Plant Boiler, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
  3. Yuanhao SHI, Jiang WANG, **Jie WEN** and Jianfeng CUI, A Hybrid Trajectory Prediction Method for High Speed Targets based on WD-LSTM, 2022 China Automation Congress, Xiamen, 2022: 11.25-11.27. (EI)
  4. Yukai TIAN, **Jie WEN**, Yanru YANG, Yuanhao SHI and Jianchao ZENG, State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM, Batteries, 2022, 8(10): 155. (SCI)
  5. Yuanhao SHI, Mengwei LI, **Jie WEN**, Yanru YANG and Jianchao ZENG, Deep Learning-Based Approach for Heat Transfer Efficiency Prediction with Deep Feature Extraction, ACS Omega, 2022, 7(35): 31013–31035. (SCI)
