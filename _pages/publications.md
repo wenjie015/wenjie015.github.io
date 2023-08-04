@@ -10,8 +10,9 @@ redirect_from:
 
 Papers Under Review
 ======
-1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, under review (3rd round), July 5, 2023.
-2. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Time-delay Quantum Systems Based on Continuous Measurement Feedback, Journal of The Franklin Institute, under review (2nd round), Feb 20, 2023.
+1. Chenyu Jia, Yukai Tian, Yuanhao Shi, **Jie Wen**\* and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, IEEE Transactions on Instrumentation and Measurement, submitted, Aug 4, 2023.
+2. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, under review (3rd round), July 5, 2023.
+3. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Time-delay Quantum Systems Based on Continuous Measurement Feedback, Journal of The Franklin Institute, under review (2nd round), Feb 20, 2023.
 
 Journal Papers (As first/corresponding author, 14 SCI)
 ======
