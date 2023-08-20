@@ -40,6 +40,8 @@ Journals
 
 Conferences
 ======
+* 2023 China Automation Congress, CAC 2023
+* TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
 * TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
 * TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
 * TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
