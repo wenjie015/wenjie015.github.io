@@ -10,7 +10,7 @@ redirect_from:
 
 Papers Under Review
 ======
-1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, Energy, major revision, Sep 10, 2023.
+1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, Energy, under review (2nd round), Sep 21, 2023.
 2. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, under review (2nd round), May 25, 2023.
 3. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Time-delay Quantum Systems Based on Continuous Measurement Feedback, Journal of The Franklin Institute, under review (3rd round), Aug 25, 2023.
 
