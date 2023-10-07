@@ -15,6 +15,7 @@ Journals
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * IEEE Network
 * IEEE Transactions on Cybernetics
+* Applied Energy
 * Renewable and Sustainable Energy Reviews
 * Energy
 * Journal of The Franklin Institute
@@ -47,7 +48,7 @@ Conferences
 * TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
 * TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
 * TPC Member, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
-* Session Chair, The 32th Chinese Process Control Conference, CPCC 2021
+* Session Chair, The 32nd Chinese Process Control Conference, CPCC 2021
 * TPC Member, 2021 IEEE Globecom Workshops: Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things, GC 2021 Workshop - 6GIoT
 * TPC Member, 2021 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications & Computing, Globecom 2021
 * TPC Member, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
