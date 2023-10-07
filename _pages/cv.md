@@ -55,6 +55,7 @@ Reviewer
 	+ Sensors
 	+ Franklin Open
 	+ Automatika
+ 	+ TELKOMNIKA
 	+ Energies
 	+ Asia-Pacific Journal of Chemical Engineering
 	+ Mathematical Problems in Engineering
