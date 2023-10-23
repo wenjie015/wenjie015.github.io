@@ -12,7 +12,7 @@ Papers Under Review
 ======
 1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains Based on Cascade Control, Transactions of the Institute of Measurement and Control, under review (2nd round), May 25, 2023.
 2. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, SCIENCE CHINA Information Sciences, under review, Oct 11, 2023.
-3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, Physica A: Statistical Mechanics and its Applications, submitted, Oct 17, 2023.
+3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, Applied Mathematics and Computation, submitted, Oct 22, 2023.
 
 Journal Papers (As first/corresponding author, 15 SCI)
 ======
