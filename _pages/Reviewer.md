@@ -18,6 +18,7 @@ Journals
 * Applied Energy
 * Renewable and Sustainable Energy Reviews
 * Energy
+* Expert Systems with Applications
 * Journal of The Franklin Institute
 * Journal of Energy Storage
 * Measurement
