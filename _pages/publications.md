@@ -10,7 +10,7 @@ redirect_from:
 
 Journal Papers (As first/corresponding author, 15 SCI)
 ======
-1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, Energy, online, Oct 18, 2023. doi: 10.1016/j.energy.2023.129401
+1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/doi: 10.1016/j.energy.2023.129401), Energy, 2023, 285: 129401. (SCI, IF=9.0)
 2. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework](https://doi.org/10.1088/1674-1056/acb9f3), Chinese Physics B, 2023, 32(7): 070203. (SCI, IF=1.7)
 3. Yanru Yang, **Jie Wen**\*, Jianyu Liang, Yuanhao Shi, Yukai Tian, and Jiang Wang, [Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature](https://doi.org/10.3390/su15021602), Sustainability, 2023, 15(2): 1602. (SCI, SSCI, IF=3.9)
 4. Yukai Tian, **Jie Wen**\*, Yanru Yang, Yuanhao Shi, and Jianchao Zeng, [State-of-Health Prediction of Lithium-Ion Batteries Based on CNN-BiLSTM-AM](https://doi.org/10.3390/batteries8100155), Batteries, 2022, 8(10): 155. (SCI, IF=4.0)
