@@ -45,6 +45,7 @@ Reviewer
  	+ Applied Energy
 	+ Renewable and Sustainable Energy Reviews
 	+ Energy
+ 	+ Expert Systems with Applications
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
@@ -66,7 +67,9 @@ Reviewer
 	+ Asian Research Journal of Mathematics
 	+ International Journal of Computing and Digital Systems
 * Conferences
-	+ 2023 China Automation Congress, CAC 2023
+	+ TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
+ 	+ TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
+ 	+ 2023 China Automation Congress, CAC 2023
  	+ TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
  	+ TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
  	+ TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
@@ -88,7 +91,7 @@ Reviewer
 Publications
 ======
 * 2023
-1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie WEN**, and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, Energy, accepted, Oct 18, 2023. (SCI, Top)
+1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie WEN**, and Jianchao Zeng, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, Energy, 2023, 285: 12940. (SCI, Top)
 2. Yanru YANG, **Jie WEN**, Jianyu LIANG, Yuanhao SHI, Yukai TIAN and Jiang WANG, Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature, Sustainability, 2023, 15(2): 1602. (SSCI, SCI)
 3. 董渊昌, 庞晓琼, 贾建芳, 史元浩, **温杰**, 李笑, 张鑫, 基于SVD-SAE-GPR的锂离子电池RUL预测, 储能科学与技术, 2023, 12(4): 1257-1267.
 4. **Jie WEN**, Fangmin WANG, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework, Chinese Physics B, 2023, 32(7): 070203. (SCI)
