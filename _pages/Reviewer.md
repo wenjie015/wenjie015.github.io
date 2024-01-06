@@ -43,7 +43,7 @@ Journals
 
 Conferences
 ======
-* TPC Member, IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
+* TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
 * TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
 * 2023 China Automation Congress, CAC 2023
 * TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
