@@ -42,10 +42,10 @@ Reviewer
 	+ IEEE Transactions on Systems, Man and Cybernetics: Systems
 	+ IEEE Network
 	+ IEEE Transactions on Cybernetics
- 	+ Applied Energy
+ + Applied Energy
 	+ Renewable and Sustainable Energy Reviews
 	+ Energy
- 	+ Expert Systems with Applications
+ + Expert Systems with Applications
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
@@ -68,11 +68,11 @@ Reviewer
 	+ International Journal of Computing and Digital Systems
 * Conferences
 	+ TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
- 	+ TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
- 	+ 2023 China Automation Congress, CAC 2023
- 	+ TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
- 	+ TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
- 	+ TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
+ + TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
+ + 2023 China Automation Congress, CAC 2023
+ + TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
+ + TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
+ + TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
 	+ TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
 	+ TPC Member, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
 	+ Session Chair, The 32nd Chinese Process Control Conference, CPCC 2021
