@@ -50,6 +50,7 @@ Reviewer
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
 	+ Measurement
+ 	+ Heliyon
 	+ IET Control Theory & Applications
 	+ Scientific Reports
 	+ IEEE Access
