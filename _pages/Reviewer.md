@@ -23,6 +23,7 @@ Journals
 * Journal of Energy Storage
 * Measurement
 * Journal of The Electrochemical Society
+* Heliyon
 * IET Control Theory & Applications
 * Scientific Reports
 * Batteries
