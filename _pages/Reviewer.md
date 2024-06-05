@@ -28,6 +28,7 @@ Journals
 * Scientific Reports
 * Batteries
 * IEEE Access
+* Cleaner Energy Systems
 * Sensors
 * Franklin Open
 * Automatika
