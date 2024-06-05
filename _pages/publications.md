@@ -8,6 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
+Submitted Papers
+======
+1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, Energy, under review, Jun 1, 2024.
+2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\*, and Jianchao Zeng, Remaining useful life prediction of lithium-ion batteries based on trend filtering segmentation and fuzzy information granulation, Journal of Energy Storage, under review, May 20, 2024.
+3. **Jie Wen**\* and Fangmin Wang, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, Chaos, Solitons & Fractals, accept pending minor revision, May 16, 2024.
+4. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, Romanian Journal of Information Science and Technology, major revision, Jun 6, 2024. [Simulink Model](http://wenjie015.github.io/files/SMC_Lyapunov_PID_switch_com_m_change16A_vs_fuzzyPID.slx)
+5. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, Applied Mathematics and Optimization, under review, Nov 3, 2023.
+
 Journal Papers (As first/corresponding author, 15 SCI)
 ======
 1. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/10.1016/j.energy.2023.129401), Energy, 2023, 285: 129401. (SCI, IF=9.0)
