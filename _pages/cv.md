@@ -151,7 +151,7 @@ Publications
 * 2016
 	1. Shuang CONG, **Jie WEN**, Sen KUANG and Fangfang MENG, Global Stabilization Control of Stochastic Quantum Systems, *SCIENCE CHINA Information Sciences*, 2016, 59(11): 112502. (SCI)
 	2. **Jie WEN**, Shuang CONG, Preparation of Quantum Gates for Open Quantum Systems by Lyapunov Control Method, *Open Systems & Information Dynamics*, 2016, 23(01): 1650005. (SCI)
-	3. Shuang CONG, **Jie WEN**, Sen KUANG and Fangfang MENG, Global Stabilization of an Eigenstate for Stochastic Quantum Systems, *IEEE International Conference on Control & Automation, Kathmandu*, 2016: 6.01-6.03. (EI)
+	3. Shuang CONG, **Jie WEN**, Sen KUANG and Fangfang MENG, Global Stabilization of an Eigenstate for Stochastic Quantum Systems, *IEEE International Conference on Control & Automation*, Kathmandu, 2016: 6.01-6.03. (EI)
 * Before 2016
 	1. Shuang CONG, **Jie WEN** and Xubo ZOU, Comparison of Time Optimal Control for Two Level Quantum Systems, *Journal of Systems Engineering and Electronics*, 2014, 25(1): 95-103. (SCI)
 	2. 丛爽, 胡龙珍, 薛静静, **温杰**, 基于李雅普诺夫控制的随机开放量子系统特性分析, *科技导报*, 2014, 32(22): 15-22.
