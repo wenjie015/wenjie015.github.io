@@ -156,5 +156,5 @@ Publications
 	1. Shuang CONG, **Jie WEN** and Xubo ZOU, Comparison of Time Optimal Control for Two Level Quantum Systems, *Journal of Systems Engineering and Electronics*, 2014, 25(1): 95-103. (SCI)
 	2. 丛爽, 胡龙珍, 薛静静, **温杰**, 基于李雅普诺夫控制的随机开放量子系统特性分析, *科技导报*, 2014, 32(22): 15-22.
 	3. **Jie WEN**, Shuang CONG, Lyapunov-based Control for the Operator Preparation in Markovian Open Quantum Systems, *IEEE International Conference on Information and Automation*, Hailar, 2014: 7.28-7.30. (EI)
-	4. **Jie WEN**, Shuang CONG and Xubo ZOU, Realization of Quantum Hadamard Gate Based on Lyapunov Method, *The 10th World Congress on Intelligent Control and Automation*, Beijin, 2012: 7.06-7.08. (EI)
+	4. **Jie WEN**, Shuang CONG and Xubo ZOU, Realization of Quantum Hadamard Gate Based on Lyapunov Method, *The 10th World Congress on Intelligent Control and Automation*, Beijing, 2012: 7.06-7.08. (EI)
 	5. **Jie WEN**, Shuang CONG, Transfer from Arbitrary Pure State to Target Mixed State for Quantum Systems, *The 18th World Congress of the International Federation of Automatic Control*, Milano, 2011: 8.28-9.02. (EI)
