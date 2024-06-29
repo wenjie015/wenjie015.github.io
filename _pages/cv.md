@@ -28,6 +28,7 @@ Research Interests
 
 Grants
 ======
+* Natural Science Foundation of Shanxi Province, Principal investigator, 2024.03-2027.02, Amount granted ￥100,000
 * North University of China, Discipline Building Project, Principal investigator, 2023.01-2025.12, Amount granted ￥100,000
 * Scientific and Technological Innovation Programs of Higher Education Institutions in Shanxi, Project 2019L0583, Principal investigator, 2019.07-2021.06, Amount granted ￥20,000
 * Natural Science Foundation of Shanxi Province, Project 201801D221208, Principal investigator, 2018.12-2020.12, Amount granted ￥30,000
@@ -92,7 +93,7 @@ Reviewer
 Publications
 ======
 * 2024
-  1. **Jie Wen**\* and Fangmin Wang, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, accept, Jun 28, 2024. (SCI)
+  1. **Jie W EN**\* and Fangmin WANG, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, accept, Jun 28, 2024. (SCI)
   2. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, Accept, Jun 17, 2024. (My main contribution to this work is the proof of convergence. Top2 journal in control science, SCI)
   3. Wenwen ZHANG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, An Improved Transformer Model for Remaining Useful Life Prediction of Lithium-Ion Batteries Under Random Charging and Discharging, *Electronics*, 2024, 13(8): 1423. (SCI)
 * 2023
