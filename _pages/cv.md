@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-The core information can be found in [here](https://wenjie015.github.io/wenjie/).
-
 Education
 ======
 * Ph.D., 2010.9-2015.6, Control Science and Engineering, [University of Science and Technology of China](http://www.ustc.edu.cn/)
