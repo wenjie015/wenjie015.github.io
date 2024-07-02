@@ -35,7 +35,7 @@ Grants
 
 Reviewer
 ======
-* $\color{red}{Journals}
+* Journals
 	+ Automatica
 	+ IEEE Journal on Selected Areas in Communications
 	+ IEEE Transactions on Systems, Man and Cybernetics: Systems
