@@ -17,7 +17,7 @@ Submitted Papers
 Journal Papers (As first/corresponding author, 17 SCI)
 ======
 1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, accept, Jul 5, 2024. (SCI, IF=3.7, JCR Q1, 中科院四区)
-2. **Jie Wen**\* and Fangmin Wang, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, accept, Jun 28, 2024. (SCI, IF=5.3, JCR Q1, 中科院一区)
+2. **Jie Wen**\* and Fangmin Wang, [Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback](https://doi.org/10.1016/j.chaos.2024.115228), *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI, IF=5.3, JCR Q1, 中科院一区)
 3. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/10.1016/j.energy.2023.129401), *Energy*, 2023, 285: 129401. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 4. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia, and Jianchao Zeng\*, [Rapid Stabilization of Stochastic Quantum Systems in A Unified Framework](https://doi.org/10.1088/1674-1056/acb9f3), *Chinese Physics B*, 2023, 32(7): 070203. (SCI, IF=1.5, JCR Q2, 中科院四区)
 5. Yanru Yang, **Jie Wen**\*, Jianyu Liang, Yuanhao Shi, Yukai Tian, and Jiang Wang, [Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature](https://doi.org/10.3390/su15021602), *Sustainability*, 2023, 15(2): 1602. (SCI, SSCI, IF=3.3, JCR Q2, 中科院三区)
