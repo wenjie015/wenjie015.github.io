@@ -41,9 +41,7 @@ Reviewer
 	+ IEEE Transactions on Systems, Man and Cybernetics: Systems
 	+ IEEE Network
 	+ IEEE Transactions on Cybernetics
-
  	+ IEEE Transactions on Transportation Electrification
-    
  	+ Applied Energy
 	+ Renewable and Sustainable Energy Reviews
 	+ Energy
@@ -52,7 +50,6 @@ Reviewer
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
 	+ Measurement
-
  	+ Heliyon
 	+ IET Control Theory & Applications
 	+ Scientific Reports
@@ -60,7 +57,6 @@ Reviewer
 	+ Sensors
 	+ Franklin Open
 	+ Automatika
-
  	+ TELKOMNIKA
 	+ Energies
 	+ Asia-Pacific Journal of Chemical Engineering
