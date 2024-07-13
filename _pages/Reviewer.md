@@ -15,6 +15,7 @@ Journals
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * IEEE Network
 * IEEE Transactions on Cybernetics
+* IEEE Transactions on Transportation Electrification
 * Applied Energy
 * Renewable and Sustainable Energy Reviews
 * Energy
