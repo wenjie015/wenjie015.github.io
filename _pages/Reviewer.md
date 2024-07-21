@@ -24,6 +24,7 @@ Journals
 * Journal of Energy Storage
 * Measurement
 * Journal of The Electrochemical Society
+* Journal of Traffic and Transportation Engineering (English Edition)
 * Heliyon
 * IET Control Theory & Applications
 * Scientific Reports
