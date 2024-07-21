@@ -50,6 +50,7 @@ Reviewer
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
 	+ Measurement
+	+ Journal of Traffic and Transportation Engineering (English Edition)
  	+ Heliyon
 	+ IET Control Theory & Applications
 	+ Scientific Reports
