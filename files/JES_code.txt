@@ -1,0 +1,40 @@
+#fuzzy information granulation
+def judge_liha(w,stort):
+    if (w%2==0):
+            xi = 0
+            yi = 0
+            M = int(w/2)
+            m = (sort[M-1]+sort[M])/2
+            for k in range(0,M):
+                xi = xi+sort[k]
+            a = (2*xi)/M-m
+            for l in range(M,w):
+                yi = yi+sort[l]
+            b = (2*yi)/(w-M)-m
+    else:
+            
+        xi = 0
+        yi = 0
+        M = int((w+1)/2)
+        m = sort[M]
+        for k in range(0,M):
+            xi = xi+sort[k]
+        a = (2*xi)/M-m
+        for l in range(M,w):
+            yi = yi+sort[l]
+        b = (2*yi)/(w-M)-m
+    return a,m,b
+
+
+% trend filtering segmentation
+e = ones(n,1);
+D = spdiags([e,-2*e,e],0:2,n-2,n);
+
+lambda = 5000;
+
+cvx_begin
+    variable x(n)
+    minimize(0.5*sum_square(y-x)+lambda*norm(D*x,1))
+cvx_end
+
+
