@@ -93,7 +93,7 @@ Reviewer
 Publications
 ======
 * 2024
-  1. Siyuan Cui, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**, Yuanhao Shi, Jianchao Zeng, A Data-Driven Method With Sample Entropy and CEEMDAN for Short-Term Performance Degradation Prediction of Dynamic Hydrogen Fuel Cells, *International Journal of Hydrogen Energy*, 2024, 83: 916-932. (SCI)
+  1. Siyuan CUI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, A Data-Driven Method With Sample Entropy and CEEMDAN for Short-Term Performance Degradation Prediction of Dynamic Hydrogen Fuel Cells, *International Journal of Hydrogen Energy*, 2024, 83: 916-932. (SCI)
   2.  **Jie WEN**\* and Fangling WANG, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, accept, Jul 5, 2024. (SCI)
   3. **Jie WEN**\* and Fangmin WANG, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI)
   4. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, Accept, Jun 17, 2024. (My main contribution to this work is the proof of convergence. Top2 journal in control science, SCI)
