@@ -14,6 +14,10 @@ Submitted Papers
 2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\*, and Jianchao Zeng, Remaining useful life prediction of lithium-ion batteries based on trend filtering segmentation and fuzzy information granulation, *Journal of Energy Storage*, under review, Jun 16, 2024.
 3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.
 
+Books
+======
+1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年8月.
+
 Journal Papers (As first/corresponding author, 17 SCI)
 ======
 1. **Jie Wen**\* and Fangling Wang, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, accept, Jul 5, 2024. (SCI, IF=3.7, JCR Q1, 中科院四区)
