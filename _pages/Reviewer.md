@@ -18,6 +18,7 @@ Journals
 * IEEE Transactions on Transportation Electrification
 * Applied Energy
 * Renewable and Sustainable Energy Reviews
+* Reliability Engineering & System Safety
 * Energy
 * Expert Systems with Applications
 * Journal of The Franklin Institute
