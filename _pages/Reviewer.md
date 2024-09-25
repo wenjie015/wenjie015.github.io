@@ -26,6 +26,7 @@ Journals
 * Measurement
 * Journal of The Electrochemical Society
 * Journal of Traffic and Transportation Engineering (English Edition)
+* Measurement Science and Technology
 * Heliyon
 * IET Control Theory & Applications
 * Scientific Reports
