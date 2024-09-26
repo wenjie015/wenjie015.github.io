@@ -29,6 +29,7 @@ Journals
 * Measurement Science and Technology
 * Heliyon
 * IET Control Theory & Applications
+* Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
 * Scientific Reports
 * Batteries
 * IEEE Access
