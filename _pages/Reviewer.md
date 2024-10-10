@@ -21,6 +21,7 @@ Journals
 * Reliability Engineering & System Safety
 * Energy
 * Expert Systems with Applications
+* Engineering Applications of Artificial Intelligence
 * Journal of The Franklin Institute
 * Journal of Energy Storage
 * Measurement
@@ -50,6 +51,7 @@ Journals
 
 Conferences
 ======
+* 2025 American Control Conference, ACC 2025
 * TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
 * TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
 * 2023 China Automation Congress, CAC 2023
