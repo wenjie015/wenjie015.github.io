@@ -99,7 +99,7 @@ Publications
   1. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (My main contribution to this work is the proof of convergence. Top2 journal in control science, SCI)
 * 2024
   1. Siyuan CUI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, A Data-Driven Method With Sample Entropy and CEEMDAN for Short-Term Performance Degradation Prediction of Dynamic Hydrogen Fuel Cells, *International Journal of Hydrogen Energy*, 2024, 83: 916-932. (SCI)
-  2.  **Jie WEN**\* and Fangling WANG, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, accept, Jul 5, 2024. (SCI)
+  2.  **Jie WEN**\* and Fangling WANG, [Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control](https://doi.org/10.59277/ROMJIST.2024.3-4.08), *Romanian Journal of Information Science and Technology*, 2024, 27(3-4): 348-361. (SCI)
   3. **Jie WEN**\* and Fangmin WANG, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI)
   4. Wenwen ZHANG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, An Improved Transformer Model for Remaining Useful Life Prediction of Lithium-Ion Batteries Under Random Charging and Discharging, *Electronics*, 2024, 13(8): 1423. (SCI)
 * 2023
