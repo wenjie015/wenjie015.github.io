@@ -47,6 +47,7 @@ Reviewer
  	+ Reliability Engineering & System Safety
 	+ Energy
  	+ Expert Systems with Applications
+ 	+ Engineering Applications of Artificial Intelligence
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
