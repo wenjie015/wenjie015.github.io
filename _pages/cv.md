@@ -73,7 +73,8 @@ Reviewer
 	+ Asian Research Journal of Mathematics
 	+ International Journal of Computing and Digital Systems
 * Conferences
-	+ 2025 American Control Conference, ACC 2025
+	+ TPC Member, 2025 IEEE International Conference on Communications; Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2025
+ 	+ 2025 American Control Conference, ACC 2025
  	+ TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
  	+ TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
  	+ 2023 China Automation Congress, CAC 2023
