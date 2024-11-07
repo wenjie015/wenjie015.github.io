@@ -175,3 +175,13 @@ Publications
 	3. **Jie WEN**, Shuang CONG, Lyapunov-based Control for the Operator Preparation in Markovian Open Quantum Systems, *IEEE International Conference on Information and Automation*, Hailar, 2014: 7.28-7.30. (EI)
 	4. **Jie WEN**, Shuang CONG and Xubo ZOU, Realization of Quantum Hadamard Gate Based on Lyapunov Method, *The 10th World Congress on Intelligent Control and Automation*, Beijing, 2012: 7.06-7.08. (EI)
 	5. **Jie WEN**, Shuang CONG, Transfer from Arbitrary Pure State to Target Mixed State for Quantum Systems, *The 18th World Congress of the International Federation of Automatic Control*, Milano, 2011: 8.28-9.02. (EI)
+
+Patents
+======
+1. 贾建芳, 温杰, 元淑芳, 史元浩, 庞晓琼, 刘豪, 曾建潮, 一种基于ISSA耦合DELM的锂离子电池健康状态预测方法, ZL202111311076.2
+2. 贾建芳, 温杰, 王科科, 史元浩, 庞晓琼, 曾建潮, 一种多尺度锂离子电池健康状态的预测方法, ZL202110851950.5
+3. 贾建芳, 温杰, 王科科, 史元浩, 庞晓琼, 梁建宇, 曾建潮, 多类型锂离子电池组管理系统的健康状态和剩余寿命预测方法, ZL202010800353.5
+4. 史元浩, 陈晓龙, 温杰, 贾建芳, 庞晓琼, 曾建潮, 贾志琴, 张泽慧, 一种基于受热面健康状态预测的锅炉吹灰优化方法, ZL201811476775.0
+5. 史元浩, 李强, 崔方舒, 温杰, 曾建潮, 张国珺, 王艳婷, 楚丰毅, 一种燃煤电厂锅炉受热面的吹灰优化方法, ZL201811476887.6
+6. 庞晓琼, 王竹晴, 曾建潮, 史元浩, 贾建芳, 温杰, 同类型不同锂离子电池剩余使用寿命预测方法和系统, ZL201810989186.6
+7. 庞晓琼, 史元浩, 温杰, 一种基于二维码的 KVM 用户访问授权方法, ZL201610828057.X
