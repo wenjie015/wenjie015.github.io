@@ -11,7 +11,8 @@ redirect_from:
 Reviewer of Mathematical Reviews, American Mathematical Society
 ======
 
-Journals
+
+Journals Reviewer
 ======
 * Automatica
 * IEEE Journal on Selected Areas in Communications
@@ -53,7 +54,7 @@ Journals
 * Asian Research Journal of Mathematics
 * International Journal of Computing and Digital Systems
 
-Conferences
+Conferences Reviewer
 ======
 * TPC Member, 2025 IEEE International Conference on Communications; Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2025
 * 2025 American Control Conference, ACC 2025
