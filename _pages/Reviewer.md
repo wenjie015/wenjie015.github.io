@@ -28,6 +28,7 @@ Journals
 * Journal of The Electrochemical Society
 * Journal of Traffic and Transportation Engineering (English Edition)
 * Measurement Science and Technology
+* Energy Sources, Part A: Recovery, Utilization, and Environmental Effects
 * Heliyon
 * IET Control Theory & Applications
 * Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
