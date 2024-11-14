@@ -15,8 +15,8 @@ Books
 Submitted Papers
 ======
 1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *Energy*, under review, Jun 1, 2024.
-2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\*, and Jianchao Zeng, Remaining useful life prediction of lithium-ion batteries based on trend filtering segmentation and fuzzy information granulation, *Journal of Energy Storage*, under review, Jun 16, 2024.
-3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023. -->
+2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\*, and Jianchao Zeng, Remaining useful life prediction of lithium-ion batteries based on trend filtering segmentation and fuzzy information granulation, *Energy*, under review, Sep 23, 2024.
+3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.
 
 Journal Papers (As first/corresponding author, 17 SCI)
 ======
