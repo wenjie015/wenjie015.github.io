@@ -42,6 +42,7 @@ Journals Reviewer
 * Telematics and Informatics Reports
 * Cleaner Energy Systems
 * Sensors
+* Sustainability
 * Franklin Open
 * Automatika
 * TELKOMNIKA
