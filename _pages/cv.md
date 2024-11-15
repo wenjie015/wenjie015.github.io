@@ -62,6 +62,7 @@ Reviewer
 	+ IEEE Access
  	+ Telematics and Informatics Reports
 	+ Sensors
+ 	+ Sustainability
 	+ Franklin Open
 	+ Automatika
  	+ TELKOMNIKA
