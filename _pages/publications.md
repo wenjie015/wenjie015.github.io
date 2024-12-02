@@ -10,7 +10,7 @@ redirect_from:
 
 Books
 ======
-1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
+1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年. [Draft](http://wenjie015.github.io/files/Book QSC.pdf)
    
 <!--Submitted Papers
 ======
