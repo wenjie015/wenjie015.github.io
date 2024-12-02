@@ -39,6 +39,7 @@ Journals Reviewer
 * Scientific Reports
 * Batteries
 * IEEE Access
+* Global Energy Interconnection
 * Telematics and Informatics Reports
 * Cleaner Energy Systems
 * Sensors
