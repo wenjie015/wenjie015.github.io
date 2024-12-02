@@ -10,7 +10,7 @@ redirect_from:
 
 Grants
 ======
-* Natural Science Foundation of Shanxi Province, Project 202403021211088, Principal investigator, 2024.03-2027.02, Amount granted ￥70,000
+* Natural Science Foundation of Shanxi Province, Project 202403021211088, Principal investigator, 2024.07-2027.07, Amount granted ￥70,000
 * North University of China, Discipline Building Project, Principal investigator, 2023.01-2025.12, Amount granted ￥100,000
 * Scientific and Technological Innovation Programs of Higher Education Institutions in Shanxi, Project 2019L0583, Principal investigator, 2019.07-2021.06, Amount granted ￥20,000
 * Natural Science Foundation of Shanxi Province, Project 201801D221208, Principal investigator, 2018.12-2020.12, Amount granted ￥30,000
