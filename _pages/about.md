@@ -25,8 +25,9 @@ Working Experience
 Research Interests
 ======
 * Quantum Systems Control
-* Prognostic and Health Management
+* AI + Energy 
 * Reinforcement Learning
+* Time series analysis
 
 Selected Journal Publications
 ======
