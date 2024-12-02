@@ -60,6 +60,7 @@ Reviewer
 	+ Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
 	+ Scientific Reports
 	+ IEEE Access
+ 	+ Global Energy Interconnection
  	+ Telematics and Informatics Reports
 	+ Sensors
  	+ Sustainability
