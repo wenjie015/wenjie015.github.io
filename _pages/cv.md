@@ -27,7 +27,7 @@ Research Interests
 
 Grants
 ======
-* Natural Science Foundation of Shanxi Province, Project 202403021211088, Principal investigator, 2024.03-2027.02, Amount granted ￥70,000
+* Natural Science Foundation of Shanxi Province, Project 202403021211088, Principal investigator, 2024.07-2027.07, Amount granted ￥70,000
 * North University of China, Discipline Building Project, Principal investigator, 2023.01-2025.12, Amount granted ￥100,000
 * Scientific and Technological Innovation Programs of Higher Education Institutions in Shanxi, Project 2019L0583, Principal investigator, 2019.07-2021.06, Amount granted ￥20,000
 * Natural Science Foundation of Shanxi Province, Project 201801D221208, Principal investigator, 2018.12-2020.12, Amount granted ￥30,000
@@ -104,7 +104,7 @@ Reviewer
 Publications
 ======
 * 2025
-  1. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (My main contribution to this work is the proof of convergence. Top2 journal in control science, SCI)
+  1. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
 * 2024
   1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
   2. Xiaoqing REN, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, Traffic Flow Prediction through a Hybrid CLSTM Model with Multifeature Fusion, *Journal of Transportation Engineering, Part A: Systems*, 2024, 150(12): 04024084. (SCI)
