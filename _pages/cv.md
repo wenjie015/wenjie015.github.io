@@ -107,7 +107,8 @@ Reviewer
 Publications
 ======
 * 2025
-  1. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
+  1. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810.
+  2. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
 * 2024
   1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
   2. Xiaoqing REN, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, Traffic Flow Prediction through a Hybrid CLSTM Model with Multifeature Fusion, *Journal of Transportation Engineering, Part A: Systems*, 2024, 150(12): 04024084. (SCI)
