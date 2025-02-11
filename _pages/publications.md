@@ -19,7 +19,7 @@ Books
 
 Journal Papers (As first/corresponding author, 18 SCI)
 ======
-1. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, accepted, Jan 31, 2025. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
+1. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation](https://doi.org/10.1016/j.energy.2025.134810), *Energy*, 2025, 318: 134810. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 2. **Jie Wen**\* and Fangling Wang, [Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control](https://doi.org/10.59277/ROMJIST.2024.3-4.08), *Romanian Journal of Information Science and Technology*, 2024, 27(3-4): 348-361. (SCI, IF=3.7, JCR Q1, 中科院四区)
 3. **Jie Wen**\* and Fangmin Wang, [Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback](https://doi.org/10.1016/j.chaos.2024.115228), *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI, IF=5.3, JCR Q1, 中科院一区)
 4. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/10.1016/j.energy.2023.129401), *Energy*, 2023, 285: 129401. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
