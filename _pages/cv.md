@@ -57,6 +57,7 @@ Reviewer
 	+ Measurement
 	+ Journal of Traffic and Transportation Engineering (English Edition)
  	+ Measurement Science and Technology
+ 	+ Journal of Physics D: Applied Physics
  	+ Heliyon
 	+ IET Control Theory & Applications
 	+ Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering
@@ -97,7 +98,7 @@ Reviewer
 	+ TPC Member, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
 	+ International Conference on Data Analytics for Business and Industry, DATA 2020
 	+ International Conference on Decision Aid Sciences and Applications, DASA 2020, DASA2022
-	+ International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023
+	+ International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023, CoDIT 2024, CoDIT 2025
 	+ TPC Member, IEEE GLOBECOM Workshop on Quantum Communications and Information Technology, GC 2018 Workshop-QCIT, GC 2019 Workshop-QCIT, GC 2020 Workshop-QCIT
 	+ Session Co-Chair, The 37th Chinese Control Conference, CCC 2018
 	+ The 18th IFAC Symposium on System Identification, SYSID 2018
@@ -107,7 +108,7 @@ Reviewer
 Publications
 ======
 * 2025
-  1. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810.
+  1. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810. (SCI)
   2. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
 * 2024
   1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
