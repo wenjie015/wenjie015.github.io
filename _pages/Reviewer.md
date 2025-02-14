@@ -33,6 +33,7 @@ Journals Reviewer
 * Journal of The Electrochemical Society
 * Journal of Traffic and Transportation Engineering (English Edition)
 * Measurement Science and Technology
+* Journal of Physics D: Applied Physics
 * Energy Sources, Part A: Recovery, Utilization, and Environmental Effects
 * Heliyon
 * IET Control Theory & Applications
@@ -79,7 +80,7 @@ IEEE ICC 2025
 * TPC Member, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
 * International Conference on Data Analytics for Business and Industry, DATA 2020
 * International Conference on Decision Aid Sciences and Applications, DASA 2020, DASA2022
-* International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023, CoDIT 2024
+* International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023, CoDIT 2024, CoDIT 2025
 * TPC Member, IEEE GLOBECOM Workshop on Quantum Communications and Information Technology, GC 2018 Workshop-QCIT, GC 2019 Workshop-QCIT, GC 2020 Workshop-QCIT
 * Session Co-Chair, The 37th Chinese Control Conference, CCC 2018
 * The 18th IFAC Symposium on System Identification, SYSID 2018
