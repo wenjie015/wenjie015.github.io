@@ -129,7 +129,7 @@ Publications
 8. **Jie WEN**, Yuanhao SHI, Xiaoqiong PANG, Jianfang JIA and Jianchao ZENG, Global Exponential Stabilization of Quantum Spin-1/2 Systems via Improved Feedback Control, *Journal of The Franklin Institute*, 2023, 360(17): 13798-13821. (SCI)
 9. Tianxiang HAN, Yuanhao SHI, Fangshu CUI, **Jie WEN**, Yongtao HU and Gangzhu QIAO, Ash Accumulation Prediction in Coal-Fired Power Plant Boilers Based on GWO-VMD-BiLSTM, 2023 China Automation Congress, Chongqing, 2023: 11.17-11.19. (EI)
 10. Jianfang JIA, Han ZHANG, Wenwen ZHANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, Interval Prediction of Lithium-Ion Battery Health State Based on Charging Feature Fusion and LSTMQR, 2023 China Automation Congress, Chongqing, 2023: 11.17-11.19. (EI)
-11. Xiaoqiong PANG, Yuanchang DONG, Jianchao ZENG, Jianfang JIA, **Jie WEN** and Yuanhao SHI, Remaining Useful Life Prediction of Lithium-ion Batteries Based on Singular Value Decomposition and Gaussian Process Regression, 2023 China Automation Congress, Chongqing, 2023: 11.17-11.19. (EI)
+11. Xiaoqiong PANG, Yuanchang DONG, Jianchao ZENG, Jianfang JIA, **Jie WEN** and Yuanhao SHI, Remaining Useful Life Prediction of Lithium-ion Batteries Based on Singular Value Decomposition and Gaussian Process Regression, 2023 China Automation Congress, Chongqing, 2023: 11.17-11.19. (EI)
 * 2022
 1. **Jie WEN**, Jikuo WU, Yukai TIAN, Levitation Control of Maglev Systems Based on Cascade Control, *2022 China Automation Congress*, Xiamen, 2022: 11.25-11.27. (EI)
 2. Yuanhao SHI, Tianxiang HAN, Fangshu CUI, **Jie WEN** and Gangzhu QIAO, A GM-TCN based Hybrid Prediction Method for Ash Fouling Prediction in Coal-fired Power Plant Boiler, *2022 China Automation Congress*, Xiamen, 2022: 11.25-11.27. (EI)
