@@ -111,12 +111,13 @@ Publications
   1. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810. (SCI)
   2. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
 * 2024
-  1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
-  2. Xiaoqing REN, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, Traffic Flow Prediction through a Hybrid CLSTM Model with Multifeature Fusion, *Journal of Transportation Engineering, Part A: Systems*, 2024, 150(12): 04024084. (SCI)
-  3. Siyuan CUI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, A Data-Driven Method With Sample Entropy and CEEMDAN for Short-Term Performance Degradation Prediction of Dynamic Hydrogen Fuel Cells, *International Journal of Hydrogen Energy*, 2024, 83: 916-932. (SCI)
-  4.  **Jie WEN** and Fangling WANG, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, 2024, 27(3-4): 348-361. (SCI)
-  5. **Jie WEN** and Fangmin WANG, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI)
-  6. Wenwen ZHANG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, An Improved Transformer Model for Remaining Useful Life Prediction of Lithium-Ion Batteries Under Random Charging and Discharging, *Electronics*, 2024, 13(8): 1423. (SCI)
+  1. Guiying CHENG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, DFE-SLAM: Dynamic SLAM based on improved feature extraction, 2024 China Automation Congress, Qingdao, 2024: 11.1-11.3. (EI)
+  2. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年.
+  3. Xiaoqing REN, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, Traffic Flow Prediction through a Hybrid CLSTM Model with Multifeature Fusion, *Journal of Transportation Engineering, Part A: Systems*, 2024, 150(12): 04024084. (SCI)
+  4. Siyuan CUI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, A Data-Driven Method With Sample Entropy and CEEMDAN for Short-Term Performance Degradation Prediction of Dynamic Hydrogen Fuel Cells, *International Journal of Hydrogen Energy*, 2024, 83: 916-932. (SCI)
+  5.  **Jie WEN** and Fangling WANG, Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control, *Romanian Journal of Information Science and Technology*, 2024, 27(3-4): 348-361. (SCI)
+  6. **Jie WEN** and Fangmin WANG, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback, *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI)
+  7. Wenwen ZHANG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, An Improved Transformer Model for Remaining Useful Life Prediction of Lithium-Ion Batteries Under Random Charging and Discharging, *Electronics*, 2024, 13(8): 1423. (SCI)
 * 2023
 1. Chenyu JIA, Yukai TIAN, Yuanhao SHI, Jianfang JIA, **Jie WEN**, and Jianchao ZENG, State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer, *Energy*, 2023, 285: 12940. (SCI, Top)
 2. Yanru YANG, **Jie WEN**, Jianyu LIANG, Yuanhao SHI, Yukai TIAN and Jiang WANG, Remaining Useful Life Prediction for Lithium-Ion Batteries Based on the Partial Voltage and Temperature, *Sustainability*, 2023, 15(2): 1602. (SSCI, SCI)
