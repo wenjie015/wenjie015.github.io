@@ -24,6 +24,7 @@ Research Interests
 * Quantum Systems Control
 * Prognostic and Health Management
 * Reinforcement Learning
+* Time Series Analysis
 
 Grants
 ======
