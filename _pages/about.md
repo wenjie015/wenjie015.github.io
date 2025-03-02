@@ -28,7 +28,7 @@ Research Interests
 * Quantum Systems Control
 * AI + Energy 
 * Reinforcement Learning
-* Time series analysis
+* Time Series Analysis
 
 Selected Journal Publications
 ======
