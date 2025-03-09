@@ -61,28 +61,28 @@ Journals Reviewer
 
 Conferences Reviewer
 ======
-* TPC Member, 2025 IEEE International Conference on Communications: 2nd Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing,
+* **TPC Member**, 2025 IEEE International Conference on Communications: 2nd Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing,
 IEEE ICC 2025
-* TPC Member, 2025 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces, IEEE GLOBECOM 2025
-* TPC Member, 2025 IEEE International Conference on Communications; Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2025
+* **TPC Member**, 2025 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces, IEEE GLOBECOM 2025
+* **TPC Member**, 2025 IEEE International Conference on Communications; Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2025
 * 2025 American Control Conference, ACC 2025
-* TPC Member, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
-* TPC Member, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
+* **TPC Member**, 2024 IEEE Wireless Communications and Networking Conference: WS-14: Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications
+* **TPC Member**, 2024 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology
 * 2023 China Automation Congress, CAC 2023
-* TPC Member, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
-* TPC Member, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
-* TPC Member, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
-* TPC Member, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
-* TPC Member, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
-* Session Chair, The 32nd Chinese Process Control Conference, CPCC 2021
-* TPC Member, 2021 IEEE Globecom Workshops: Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things, GC 2021 Workshop - 6GIoT
-* TPC Member, 2021 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications & Computing, Globecom 2021
-* TPC Member, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
+* **TPC Member**, 2023 IEEE Global Communications Conference: Workshop on Reconfigurable Intelligent Surfaces-Empowered 3CLS for 6G and Beyond Communications, Globecom 2023
+* **TPC Member**, 2023 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications and Computing, Globecom 2023
+* **TPC Member**, 2023 IEEE International Conference on Communications: Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2023
+* **TPC Member**, 2022 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications, Globecom 2022
+* **TPC Member**, 2022 IEEE International Conference on Communications (ICC): SAC Quantum Communications and Computing Track, IEEE ICC 2022
+* **TPC Member**, The 32nd Chinese Process Control Conference, CPCC 2021
+* **TPC Member**, 2021 IEEE Globecom Workshops: Workshop on Robust, Low-Latency and Efficient Federated Learning for 6G-Enabled Internet of Things, GC 2021 Workshop - 6GIoT
+* **TPC Member**, 2021 IEEE Global Communications Conference: Selected Areas in Communications: Quantum Communications & Computing, Globecom 2021
+* **TPC Member**, 2021 IEEE International Conference on Communications: SAC Quantum Communications and Computing Track, ICC 2021
 * International Conference on Data Analytics for Business and Industry, DATA 2020
 * International Conference on Decision Aid Sciences and Applications, DASA 2020, DASA2022
 * International Conference on Control, Decision and Information Technologies, CoDIT 2018, CoDIT 2019, CoDIT 2020, CoDIT 2022, CoDIT 2023, CoDIT 2024, CoDIT 2025
-* TPC Member, IEEE GLOBECOM Workshop on Quantum Communications and Information Technology, GC 2018 Workshop-QCIT, GC 2019 Workshop-QCIT, GC 2020 Workshop-QCIT
-* Session Co-Chair, The 37th Chinese Control Conference, CCC 2018
+* **TPC Member**, IEEE GLOBECOM Workshop on Quantum Communications and Information Technology, GC 2018 Workshop-QCIT, GC 2019 Workshop-QCIT, GC 2020 Workshop-QCIT
+* **TPC Member**, The 37th Chinese Control Conference, CCC 2018
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
