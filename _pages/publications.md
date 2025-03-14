@@ -10,14 +10,14 @@ redirect_from:
 
 Books
 ======
-1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社, 2024年. [Draft](http://wenjie015.github.io/files/Book_QSC.pdf)
+1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社. [Draft](http://wenjie015.github.io/files/Book_QSC.pdf)
    
 <!--Submitted Papers
 ======
 1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *Energy*, under review, Jun 1, 2024.
 2. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.-->
 
-Journal Papers (As first/corresponding author, 18 SCI)
+Journal Papers (As first/corresponding author, 19 SCI)
 ======
 1. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, [A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries](https://doi.org/10.3390/en18061438), *Energies*, 2025, 18(6): 1438. (SCI, IF=3.0, JCR Q3, 中科院四区)
 2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation](https://doi.org/10.1016/j.energy.2025.134810), *Energy*, 2025, 318: 134810. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
