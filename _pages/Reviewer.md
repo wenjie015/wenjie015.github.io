@@ -32,6 +32,7 @@ Journals Reviewer
 * Measurement
 * Journal of The Electrochemical Society
 * Journal of Traffic and Transportation Engineering (English Edition)
+* IEEE Sensors Journal
 * Measurement Science and Technology
 * Journal of Physics D: Applied Physics
 * Energy Sources, Part A: Recovery, Utilization, and Environmental Effects
