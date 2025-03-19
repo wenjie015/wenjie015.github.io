@@ -4,7 +4,7 @@ collection: teaching
 type: "本科生&研究生"
 permalink: /teaching/course
 venue: "中北大学，电气与控制工程学院"
-date: 2016至今
+date: "2025"
 location: "山西省太原市"
 ---
 
