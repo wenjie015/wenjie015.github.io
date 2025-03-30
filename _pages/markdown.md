@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025年
 
-* 3月24日，**温杰**老师被邀请成为期刊Information特刊“Control of Quantum Systems and the Application of Artificial Intelligence”的Guest Editor.
+* 3月24日，**温杰**老师被邀请成为期刊Information特刊“Control of Quantum Systems and the Application of Artificial Intelligence”的Guest Editor。
 * 3月13日，我们的论文《[A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries](https://doi.org/10.3390/en18061438)》被SCI期刊*Energies*接收。
 * 2月10日，**夏光述**同学的论文《[Remaining useful life prediction of lithium-ion batteries by considering trend filtering segmentation under fuzzy information granulation](https://doi.org/10.1016/j.energy.2025.134810)》被SCI一区TOP期刊*Energy*接收。
 
