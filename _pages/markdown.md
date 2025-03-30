@@ -20,5 +20,5 @@ redirect_from:
 * 10月，**温杰**老师被选为TCCT非线性系统与控制主题研讨会程序委员会委员。
 * 7月，**温杰**老师的独著《随机量子系统的镇定控制》由哈尔滨工业大学出版社出版。
 * 6月28日，我们的论文《[Exponential stabilization of stochastic quantum systems based on time-delay noise-assisted feedback](https://doi.org/10.1016/j.chaos.2024.115228)》被SCI一区期刊*Chaos, Solitons & Fractals*接收。
-* 6月，**温杰**老师申报的省基金项目“基于时滞状态反馈的随机量子系统全局指数镇定控制研究”成功获批。
+* 6月，**温杰**老师申报的省基金项目“基于时滞状态反馈的随机量子系统全局指数镇定控制研究”获批。
 * 5月，我们的论文《[Stable Levitation of Single-point Levitation Systems for Maglev Trains by Improved Cascade Control](https://doi.org/10.59277/ROMJIST.2024.3-4.08)》被SCI期刊*Romanian Journal of Information Science and Technology*接收。
