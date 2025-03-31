@@ -11,7 +11,7 @@ redirect_from:
 Reviewer of Mathematical Reviews, American Mathematical Society
 ======
 
-Guest Editor of Special Issue "Control of Quantum Systems and the Application of Artificial Intelligence" of *Information*
+Guest Editor of Special Issue "Control of Quantum Systems and the Application of Artificial Intelligence" of *[Information](https://www.mdpi.com/journal/information)*
 ======
 
 Journals Reviewer
