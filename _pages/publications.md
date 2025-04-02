@@ -17,6 +17,10 @@ Books
 1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *Energy*, under review, Jun 1, 2024.
 2. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.-->
 
+Preprint Papers
+======
+1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, arXiv preprint [arXiv:2503.23858](https://arxiv.org/abs/2503.23858), 2025.
+
 Journal Papers (As first/corresponding author, 19 SCI)
 ======
 1. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, [A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries](https://doi.org/10.3390/en18061438), *Energies*, 2025, 18(6): 1438. (SCI, IF=3.0, JCR Q3, 中科院四区)
