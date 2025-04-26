@@ -38,7 +38,7 @@ Grants
 Reviewer
 ======
 * Reviewer of Mathematical Reviews, American Mathematical Society, AMS
-* Guest Editor of Special Issue “Control of Quantum Systems and the Application of Artificial Intelligence” of Information
+* Guest Editor of Special Issue “Advanced Control Methodologies for Quantum Systems” of Information
 * Journals
 	+ Automatica
 	+ IEEE Journal on Selected Areas in Communications
