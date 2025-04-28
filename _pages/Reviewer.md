@@ -11,7 +11,7 @@ redirect_from:
 Reviewer of [Mathematical Reviews](https://www.ams.org/mr-database), American Mathematical Society
 ======
 
-Guest Editor of Special Issue "Advanced Control Methodologies for Quantum Systems" of [Information](https://www.mdpi.com/journal/information)
+Guest Editor of Special Issue "[Advanced Control Methodologies for Quantum Systems](https://www.mdpi.com/journal/information/special_issues/WH0YS8QM8K)" of [Information](https://www.mdpi.com/journal/information)
 ======
 
 Journals Reviewer
