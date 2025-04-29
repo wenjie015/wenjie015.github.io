@@ -12,7 +12,7 @@ Books
 ======
 1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社. [Draft](http://wenjie015.github.io/files/Book_QSC.pdf)
    
-Submitted and prepared Papers
+Submitted and Prepared Papers
 ======
 1. **Jie Wen**\*, Guangshu Xia and Chenyu Jia, Remaining useful life interval prediction of lithium-ion batteries via periodic time series and trend filtering segmentation-based fuzzy information granulation, prepared, Apr 29, 2025. 
 2. **Jie Wen**\*, Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback, *Chinese Journal of Physics*, under review, Apr 23, 2025
