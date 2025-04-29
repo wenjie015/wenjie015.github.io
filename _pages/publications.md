@@ -12,14 +12,15 @@ Books
 ======
 1. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社. [Draft](http://wenjie015.github.io/files/Book_QSC.pdf)
    
-<!--Submitted Papers
+Submitted Papers
 ======
-1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *Energy*, under review, Jun 1, 2024.
-2. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.-->
+1. **Jie Wen**\*, Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback, *Chinese Journal of Physics*, under review, Apr 23, 2025
+2. **Jie Wen**\*, Chenyu Jia and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *Engineering Applications of Artificial Intelligence*, submitted, Apr 28, 2025.
+3. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Applied Mathematics and Optimization*, under review, Nov 3, 2023.
 
 Preprint Papers
 ======
-1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, arXiv preprint [arXiv:2503.23858](https://arxiv.org/abs/2503.23858), 2025.
+1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *arXiv* preprint [arXiv:2503.23858](https://arxiv.org/abs/2503.23858), 2025.
 
 Journal Papers (As first/corresponding author, 19 SCI)
 ======
