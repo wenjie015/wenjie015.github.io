@@ -20,7 +20,8 @@ Books
 
 Preprint Papers
 ======
-1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *arXiv* preprint [arXiv:2503.23858](https://arxiv.org/abs/2503.23858), 2025.
+1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *arXiv* preprint [arXiv:2505.17405](https://arxiv.org/abs/2505.17405), 2025.
+2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *arXiv* preprint [arXiv:2503.23858](https://arxiv.org/abs/2503.23858), 2025.
 
 Journal Papers (As first/corresponding author, 19 SCI)
 ======
