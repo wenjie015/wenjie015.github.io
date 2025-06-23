@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025年
 
-* 6月，恭喜贾辰玉、夏光述两位同学顺利毕业获得硕士学位。
+* 6月，恭喜**贾辰玉**、**夏光述**两位同学顺利毕业获得硕士学位。
 * 4月28日，我们组织的特刊已在[官方网站](https://www.mdpi.com/journal/information/special_issues/WH0YS8QM8K)正式上线，欢迎投稿。
 * 3月24日，**温杰**老师被邀请成为期刊Information特刊“[Advanced Control Methodologies for Quantum Systems](https://www.mdpi.com/journal/information/special_issues/WH0YS8QM8K)”的Guest Editor。
 * 3月13日，我们的论文《[A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries](https://doi.org/10.3390/en18061438)》被SCI期刊*Energies*接收。
