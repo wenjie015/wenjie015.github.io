@@ -14,8 +14,7 @@ Books
    
 <!--Submitted and Prepared Papers
 ======
-1. **Jie Wen**\*, Fangmin Wang, Yuanhao Shi, Jianfang Jia and Jianchao Zeng, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, submitted to *Applied Mathematics and Optimization*, under review, Nov 23, 2023.
-2. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, Remaining useful life interval prediction of lithium-ion batteries via periodic time series and trend filtering segmentation-based fuzzy information granulation, submitted to *World Electric Vehicle Journal*, under review (2nd round), Jun 18, 2025. [code](https://github.com/wenjie015/wenjie015.github.io/blob/master/files/RUL_interval_prediction_for_battery_CS2_35.ipynb)
+1. **Jie Wen**\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, submitted to *Chaos*, July 9, 2025.
 -->
 
 Submitted and Preprint Papers
