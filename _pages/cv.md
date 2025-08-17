@@ -59,6 +59,7 @@ Reviewer
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
 	+ Measurement
+ 	+ Results in Engineering
 	+ Journal of Traffic and Transportation Engineering (English Edition)
  	+ IEEE Sensors Journal
  	+ Measurement Science and Technology
