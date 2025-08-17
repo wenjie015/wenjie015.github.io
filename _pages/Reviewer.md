@@ -35,6 +35,7 @@ Journals Reviewer
 * Journal of Energy Storage
 * Measurement
 * Journal of The Electrochemical Society
+* Results in Engineering
 * Journal of Traffic and Transportation Engineering (English Edition)
 * IEEE Sensors Journal
 * Measurement Science and Technology
@@ -92,3 +93,4 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
