@@ -115,13 +115,14 @@ Reviewer
 Publications
 ======
 * 2025
-  1. Nan Wang,Yuanhao Shi\*, Fangshu Cui, **Jie Wen**, Jianfang Jia and Bohui Wang\*, Improving the Heat Transfer Efficiency of Economizers: A Comprehensive Strategy Based on Machine Learning and Quantile Ideas, *Energies*, 2025, 18(16): 4227. (SCI)
-  2. Xiaoqiong Pang\*, Ziyao Guo, Jianfang Jia, **Jie Wen**, Xiaojie Li, Jianchao Zeng and Jiashuo Zhang, A distribution-free interval estimation method for lithium-ion battery state of health, *Ionics*, 2025. (SCI)
-  3. Xiaoqiong Pang\*, Xiao Li, Jonghoon Kim, Miyoung Lee, Zhen Zhao, **Jie Wen** and Jianchao Zeng, Interval prediction strategy for the remaining useful life of lithium-ion battery pack considering cell inconsistency, *Journal of Power Electronics*, 2025. (SCI)
-  4. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, Remaining Useful Life Interval Prediction for Lithium-Ion Batteries via Periodic Time Series and Trend Filtering Segmentation-Based Fuzzy Information Granulation, *World Electric Vehicle Journal*, 2025, 16(7): 356. (EI)
-  5. Chunsheng CUI, Guangshu XIA, Chenyu JIA and **Jie WEN**, A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries, *Energies*, 2025, 18(6): 1438. (SCI)
-  6. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810. (SCI)
-  7. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
+  1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, IEEE Transactions on Instrumentation & Measurement, accepted, Aug 25, 2025. (SCI)
+  2. Nan Wang, Yuanhao Shi\*, Fangshu Cui, **Jie Wen**, Jianfang Jia and Bohui Wang\*, Improving the Heat Transfer Efficiency of Economizers: A Comprehensive Strategy Based on Machine Learning and Quantile Ideas, *Energies*, 2025, 18(16): 4227. (SCI)
+  3. Xiaoqiong Pang\*, Ziyao Guo, Jianfang Jia, **Jie Wen**, Xiaojie Li, Jianchao Zeng and Jiashuo Zhang, A distribution-free interval estimation method for lithium-ion battery state of health, *Ionics*, 2025. (SCI)
+  4. Xiaoqiong Pang\*, Xiao Li, Jonghoon Kim, Miyoung Lee, Zhen Zhao, **Jie Wen** and Jianchao Zeng, Interval prediction strategy for the remaining useful life of lithium-ion battery pack considering cell inconsistency, *Journal of Power Electronics*, 2025. (SCI)
+  5. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, Remaining Useful Life Interval Prediction for Lithium-Ion Batteries via Periodic Time Series and Trend Filtering Segmentation-Based Fuzzy Information Granulation, *World Electric Vehicle Journal*, 2025, 16(7): 356. (EI)
+  6. Chunsheng CUI, Guangshu XIA, Chenyu JIA and **Jie WEN**, A Novel Construction Method and Prediction Framework of Periodic Time Series: Application to State of Health Prediction of Lithium-Ion Batteries, *Energies*, 2025, 18(6): 1438. (SCI)
+  7. Guangshu XIA, Chenyu JIA, Yuanhao SHI, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, and Jianchao ZENG, Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation, *Energy*, 2025, 318: 134810. (SCI)
+  8. Shuang CONG, Zhixiang DONG, **Jie WEN** and Kezhi LI, Online Estimated-based-state Feedback Control of n-Qubit Stochastic Open Quantum Systems, *Automatica*, 2025, 171: 111883. (SCI)
 * 2024
   1. Guiying CHENG, Jianfang JIA, Xiaoqiong PANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, DFE-SLAM: Dynamic SLAM based on improved feature extraction, 2024 China Automation Congress, Qingdao, 2024: 11.1-11.3. (EI)
   2. **温杰**, 随机量子系统的镇定控制, 哈尔滨: 哈尔滨工业大学出版社.
