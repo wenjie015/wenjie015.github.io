@@ -32,10 +32,10 @@ Research Interests
 
 Selected Journal Publications
 ======
-1. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation](https://doi.org/10.1016/j.energy.2025.134810), *Energy*, 2025, 318: 134810. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
-2. **Jie Wen**\* and Fangmin Wang, [Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback](https://doi.org/10.1016/j.chaos.2024.115228), *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI, IF=5.3, JCR Q1, 中科院一区)
-3. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/10.1016/j.energy.2023.129401), *Energy*, 2023, 285: 129401. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
-4. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, [Global Exponential Stabilization of Quantum Spin-1/2 Systems via Improved Feedback Control](https://doi.org/10.1016/j.jfranklin.2022.08.009), *Journal of The Franklin Institute*, 2023, 360(17): 13798-13821. (SCI, IF=3.7, JCR Q1, 中国自动化学会A类期刊)
+1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, IEEE Transactions on Instrumentation & Measurement, accepted, Aug 25, 2025. (SCI, IF=5.9, JCR Q1, 中科院二区, 中国自动化学会A+类期刊)
+2. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation](https://doi.org/10.1016/j.energy.2025.134810), *Energy*, 2025, 318: 134810. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
+3. **Jie Wen**\* and Fangmin Wang, [Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback](https://doi.org/10.1016/j.chaos.2024.115228), *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI, IF=5.3, JCR Q1, 中科院一区)
+4. Chenyu Jia, Yukai Tian, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [State of Health Prediction of Lithium-ion Batteries Based on Bidirectional Gated Recurrent Unit and Transformer](https://doi.org/10.1016/j.energy.2023.129401), *Energy*, 2023, 285: 129401. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 5. **Jie Wen**\*, Yuanhao Shi, Xiaoqiong Pang, Jianfang Jia, and Jianchao Zeng\*, [Rapid Stabilization of Time Delay Stochastic Quantum Systems Based on Continuous Measurement Feedback](https://doi.org/10.1016/j.jfranklin.2020.05.016), *Journal of The Franklin Institute*, 2020, 357(12): 7515-7536. (SCI, IF=3.7, JCR Q1, 中科院二区, 中国自动化学会A类期刊)
 
 Contact
