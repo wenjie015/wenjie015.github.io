@@ -22,7 +22,7 @@ Submitted and Preprint Papers
 1. **Jie Wen**\*, Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback, submitted to *Chinese Journal of Physics*, under review (2nd round), May 23, 2025.
 2. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *arXiv* preprint [arXiv:2505.17405](https://arxiv.org/abs/2505.17405), 2025.
 
-Journal Papers (As first/corresponding author, 19 SCI)
+Journal Papers (As first/corresponding author, 20 SCI)
 ======
 1. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, IEEE Transactions on Instrumentation & Measurement, accepted, Aug 25, 2025. (SCI, IF=5.9, JCR Q1, 中科院二区, 中国自动化学会A+类期刊)
 2. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, [Remaining Useful Life Interval Prediction for Lithium-Ion Batteries via Periodic Time Series and Trend Filtering Segmentation-Based Fuzzy Information Granulation](https://doi.org/10.3390/wevj16070356), *World Electric Vehicle Journal*, 2025, 16(7): 356. (EI)
