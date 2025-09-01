@@ -164,7 +164,7 @@ Publications
 	5. Jianfang JIA\*, Keke WANG, Yuanhao SHI, **Jie WEN**, Xiaoqiong PANG and Jianchao ZENG, A Multi-scale State of Health Prediction Framework of Lithium-ion Batteries Considering the Temperature Variation During Battery Discharge, *Journal of Energy Storage*, 2021, 42: 103076. (SCI)
 	6. Yuanhao SHI\*, Mengwei LI, Fangshu CUI, **Jie WEN** and Jianchao ZENG, A Neural-Network-Based Method for Ash Fouling Prediction of Heat Transfer Surface in Coal-Fired Power Plant Boiler, *IEEE Access*, 2021, 9(1): 109584-109604. (SCI)
 	7. Yuanhao SHI\*, Mengwei Li, **Jie WEN**, Yanru YANG, Fangshu Cui and Jianchao ZENG, Heat Transfer Efficiency Prediction of Coal-Fired Power Plant Boiler Based on CEEMDAN-NAR Considering Ash Fouling, *Energies*, 2021, 14(13): 4000. (SCI)
-	8. Yanru YANG, **Jie WEN**, Yuanhao SHI and Jianchao ZENG, State of Health Prediction of Lithium-ion Batteries based on the Discharge Voltage and Temperature, *Electronics*, 2021, 10(12): 1497. (SCI)
+	8. Yanru YANG, **Jie WEN**\*, Yuanhao SHI and Jianchao ZENG, State of Health Prediction of Lithium-ion Batteries based on the Discharge Voltage and Temperature, *Electronics*, 2021, 10(12): 1497. (SCI)
 	9. **Jie WEN**\*, Yuanhao SHI, Jianfang JIA and Jianchao ZENG, Exponential Stabilization of Two-level Quantum Systems Based on Continuous Noise-assisted Feedback, *Results in Physics*, 2021, 22: 103929. (SCI)
 	10. Jianfang JIA\*, Keke WANG, Xiaoqiong PANG, Yuanhao SHI, **Jie WEN**, and Jianchao ZENG, Multi-Scale Prediction of RUL and SOH for Lithium-Ion Batteries Based on WNN-UPF Combined Model, *Chinese Journal of Electronics*, 2021, 30(1): 26-35. (SCI)
 * 2020
