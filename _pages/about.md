@@ -32,7 +32,7 @@ Research Interests
 
 Selected Journal Publications
 ======
-1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *Energy*, accepted, Sep 1, 2025. (SCI, IF=9.4, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
+1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, [State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292), *Energy*, accepted, Sep 1, 2025. (SCI, IF=9.4, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, IEEE Transactions on Instrumentation & Measurement, accepted, Aug 25, 2025. (SCI, IF=5.9, JCR Q1, 中科院二区, 中国自动化学会A+类期刊)
 3. Guangshu Xia, Chenyu Jia, Yuanhao Shi, Jianfang Jia, Xiaoqiong Pang, **Jie Wen**\* and Jianchao Zeng, [Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Trend Filtering Segmentation and Fuzzy Information Granulation](https://doi.org/10.1016/j.energy.2025.134810), *Energy*, 2025, 318: 134810. (SCI, IF=9.0, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 4. **Jie Wen**\* and Fangmin Wang, [Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay Noise-assisted Feedback](https://doi.org/10.1016/j.chaos.2024.115228), *Chaos, Solitons & Fractals*, 2024, 186: 115228. (SCI, IF=5.3, JCR Q1, 中科院一区)
