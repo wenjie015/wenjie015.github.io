@@ -115,7 +115,7 @@ Reviewer
 Publications
 ======
 * 2025
-  1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *Energy*, accepted, Sep 1, 2025. (SCI)
+  1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, [State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292), *Energy*, accepted, Sep 1, 2025. (SCI)
   2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, IEEE Transactions on Instrumentation & Measurement, accepted, Aug 25, 2025. (SCI)
   3. Nan Wang, Yuanhao Shi\*, Fangshu Cui, **Jie Wen**, Jianfang Jia and Bohui Wang\*, Improving the Heat Transfer Efficiency of Economizers: A Comprehensive Strategy Based on Machine Learning and Quantile Ideas, *Energies*, 2025, 18(16): 4227. (SCI)
   4. Xiaoqiong Pang\*, Ziyao Guo, Jianfang Jia, **Jie Wen**, Xiaojie Li, Jianchao Zeng and Jiashuo Zhang, A distribution-free interval estimation method for lithium-ion battery state of health, *Ionics*, 2025. (SCI)
