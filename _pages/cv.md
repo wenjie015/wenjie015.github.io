@@ -53,6 +53,7 @@ Reviewer
  	+ Expert Systems with Applications
   	+ Advanced Engineering Informatics
  	+ Engineering Applications of Artificial Intelligence
+  	+ Electrochimica Acta
   	+ Journal of Power Sources
   	+ International Journal of Fatigue
 	+ Journal of The Franklin Institute
