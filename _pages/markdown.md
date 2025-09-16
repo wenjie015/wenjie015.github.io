@@ -9,8 +9,8 @@ redirect_from:
 
 ## 2025年
 
-* 9月1日，我们的论文《State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit》被SCI一区TOP期刊*Energy*接收。
-* 8月25日，**贾辰玉**同学的论文《Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries》被SCI二区期刊*IEEE Transactions on Instrumentation & Measurement*接收。
+* 9月1日，我们的论文《[State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292)》被SCI一区TOP期刊*Energy*接收。
+* 8月25日，**贾辰玉**同学的论文《[Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries](https://doi.org/10.1109/TIM.2025.3608342)》被SCI二区期刊*IEEE Transactions on Instrumentation & Measurement*接收。
 * 6月26日，我们的论文《[Remaining Useful Life Interval Prediction for Lithium-Ion Batteries via Periodic Time Series and Trend Filtering Segmentation-Based Fuzzy Information Granulation](https://doi.org/10.3390/wevj16070356)》被EI期刊*World Electric Vehicle Journal*接收并发表。
 * 6月，恭喜**贾辰玉**、**夏光述**两位同学顺利毕业获得硕士学位。
 * 4月28日，我们组织的特刊已在[官方网站](https://www.mdpi.com/journal/information/special_issues/WH0YS8QM8K)正式上线，欢迎投稿。
