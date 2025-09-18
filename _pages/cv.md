@@ -117,7 +117,7 @@ Publications
 ======
 * 2025
   1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *Energy*, 2025, 335: 138292. (SCI)
-  2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *IEEE Transactions on Instrumentation & Measurement*, accepted, Aug 25, 2025. (SCI)
+  2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *IEEE Transactions on Instrumentation & Measurement*, 2025, 74: 3558215. (SCI)
   3. Nan Wang, Yuanhao Shi\*, Fangshu Cui, **Jie Wen**, Jianfang Jia and Bohui Wang\*, Improving the Heat Transfer Efficiency of Economizers: A Comprehensive Strategy Based on Machine Learning and Quantile Ideas, *Energies*, 2025, 18(16): 4227. (SCI)
   4. Xiaoqiong Pang\*, Ziyao Guo, Jianfang Jia, **Jie Wen**, Xiaojie Li, Jianchao Zeng and Jiashuo Zhang, A distribution-free interval estimation method for lithium-ion battery state of health, *Ionics*, 2025. (SCI)
   5. Xiaoqiong Pang\*, Xiao Li, Jonghoon Kim, Miyoung Lee, Zhen Zhao, **Jie Wen** and Jianchao Zeng, Interval prediction strategy for the remaining useful life of lithium-ion battery pack considering cell inconsistency, *Journal of Power Electronics*, 2025. (SCI)
