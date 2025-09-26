@@ -46,6 +46,7 @@ Reviewer
 	+ IEEE Network
 	+ IEEE Transactions on Cybernetics
  	+ IEEE Transactions on Transportation Electrification
+  	+ eTransportation.
  	+ Applied Energy
 	+ Renewable and Sustainable Energy Reviews
  	+ Reliability Engineering & System Safety
