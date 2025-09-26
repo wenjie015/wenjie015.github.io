@@ -23,6 +23,7 @@ Journals Reviewer
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Transportation Electrification
 * Applied Energy
+* eTransportation
 * Renewable and Sustainable Energy Reviews
 * Reliability Engineering & System Safety
 * Energy
@@ -94,5 +95,6 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
 
 
