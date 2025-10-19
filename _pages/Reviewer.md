@@ -14,7 +14,7 @@ Reviewer of [Mathematical Reviews](https://www.ams.org/mr-database), American Ma
 Guest Editor of Special Issue "[Advanced Control Methodologies for Quantum Systems](https://www.mdpi.com/journal/information/special_issues/WH0YS8QM8K)" of [Information](https://www.mdpi.com/journal/information)
 ======
 
-教育部全国本科毕业论文（设计）抽检评审专家, 2025
+教育部全国本科毕业论文（设计）抽检评审专家, 2025 [聘书](http://wenjie015.github.io/files/MoEPingShu2025.png)
 ======
 
 Journals Reviewer
@@ -98,6 +98,7 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
 
 
 
