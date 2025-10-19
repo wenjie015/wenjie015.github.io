@@ -39,6 +39,7 @@ Reviewer
 ======
 * Reviewer of Mathematical Reviews, American Mathematical Society, AMS
 * Guest Editor of Special Issue “Advanced Control Methodologies for Quantum Systems” of Information
+* 教育部全国本科毕业论文（设计）抽检评审专家, 2025
 * Journals
 	+ Automatica
 	+ IEEE Journal on Selected Areas in Communications
