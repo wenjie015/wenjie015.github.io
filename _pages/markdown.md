@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025年
 
-* 10月17日，*温杰**老师受邀担任2025年度[教育部全国本科毕业论文（设计）抽检评审专家](http://wenjie015.github.io/files/MoEPingShu2025.png)。
+* 10月17日，**温杰**老师受邀担任2025年度[教育部全国本科毕业论文（设计）抽检评审专家](http://wenjie015.github.io/files/MoEPingShu2025.png)。
 * 9月18日，恭喜**贾辰玉**、**夏光述**两位同学获得[2025年中北大学优秀硕士学位论文](http://grs.nuc.edu.cn/info/1081/8465.htm)。
 * 9月1日，我们的论文《[State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292)》被SCI一区TOP期刊*Energy*接收。
 * 8月25日，**贾辰玉**同学的论文《[Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries](https://doi.org/10.1109/TIM.2025.3608342)》被SCI二区期刊*IEEE Transactions on Instrumentation & Measurement*接收。
