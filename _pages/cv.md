@@ -58,6 +58,7 @@ Reviewer
   	+ Electrochimica Acta
   	+ Journal of Power Sources
   	+ International Journal of Fatigue
+  	+ Energy and AI
 	+ Journal of The Franklin Institute
 	+ Journal of Energy Storage
 	+ Journal of The Electrochemical Society
