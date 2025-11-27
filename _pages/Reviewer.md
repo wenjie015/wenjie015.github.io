@@ -34,6 +34,7 @@ Journals Reviewer
 * Advanced Engineering Informatics
 * Engineering Applications of Artificial Intelligence
 * Applied Mathematical Modelling
+* IEEE Transactions on Instrumentation & Measurement
 * Electrochimica Acta
 * Journal of Power Sources
 * International Journal of Fatigue
@@ -100,6 +101,7 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
 
 
 
