@@ -56,6 +56,7 @@ Reviewer
   	+ Advanced Engineering Informatics
  	+ Engineering Applications of Artificial Intelligence
   	+ Applied Mathematical Modelling
+  	+ IEEE Transactions on Instrumentation & Measurement
   	+ Electrochimica Acta
   	+ Journal of Power Sources
   	+ International Journal of Fatigue
