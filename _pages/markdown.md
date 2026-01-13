@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+## 2026年
+
+* 1月13日，**温杰**老师被Journal of measurement science and instrumentation评为2025年度[**优秀审稿人**](http://wenjie015.github.io/files/JMSI2025.jpg)。
+
 ## 2025年
 
 * 12月24日，我们的论文《Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback》被SCI期刊*European Physical Journal Plus*接收。
