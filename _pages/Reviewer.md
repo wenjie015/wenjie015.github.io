@@ -17,6 +17,9 @@ Guest Editor of Special Issue "[Advanced Control Methodologies for Quantum Syste
 教育部全国本科毕业论文（设计）抽检评审专家, 2025 [聘书](http://wenjie015.github.io/files/MoEPingShu2025.png)
 ======
 
+Journal of measurement science and instrumentation 2025年度优秀审稿人
+======
+
 Journals Reviewer
 ======
 * Automatica
@@ -75,6 +78,7 @@ Journals Reviewer
 
 Conferences Reviewer
 ======
+* **TPC Member**, 2026 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces and Smart Environments, IEEE GLOBECOM 2026
 * The 44th Chinese Control Conference, CCC 2025
 * **TPC Member**, 2025 IEEE International Conference on Communications: 2nd Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing,
 IEEE ICC 2025
@@ -101,6 +105,7 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
 
 
 
