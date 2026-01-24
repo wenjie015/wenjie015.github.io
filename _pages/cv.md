@@ -40,6 +40,7 @@ Reviewer
 * Reviewer of Mathematical Reviews, American Mathematical Society, AMS
 * Guest Editor of Special Issue “Advanced Control Methodologies for Quantum Systems” of Information
 * 教育部全国本科毕业论文（设计）抽检评审专家, 2025
+* Journal of Measurement Science and Instrumentation 2025年度优秀审稿人
 * Journals
 	+ Automatica
 	+ IEEE Journal on Selected Areas in Communications
@@ -92,7 +93,8 @@ Reviewer
 	+ Asian Research Journal of Mathematics
 	+ International Journal of Computing and Digital Systems
 * Conferences
-	+ The 44th Chinese Control Conference, CCC 2025
+	+ TPC Member, 2026 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces and Smart Environments, IEEE GLOBECOM 2026
+ 	+ The 44th Chinese Control Conference, CCC 2025
  	+ TPC Member, 2025 IEEE International Conference on Communications: 2nd Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing, IEEE ICC 2025
  	+ TPC Member, 2025 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces, IEEE GLOBECOM 2025
  	+ TPC Member, 2025 IEEE International Conference on Communications; Selected Areas in Communications: Quantum Communications and Information Technology, IEEE ICC 2025
