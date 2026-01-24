@@ -17,7 +17,7 @@ Guest Editor of Special Issue "[Advanced Control Methodologies for Quantum Syste
 教育部全国本科毕业论文（设计）抽检评审专家, 2025 [聘书](http://wenjie015.github.io/files/MoEPingShu2025.png)
 ======
 
-Journal of measurement science and instrumentation 2025年度优秀审稿人
+Journal of Measurement Science and Instrumentation 2025年度优秀审稿人
 ======
 
 Journals Reviewer
@@ -105,6 +105,7 @@ IEEE ICC 2025
 * The 18th IFAC Symposium on System Identification, SYSID 2018
 * The 20th World Congress of the International Federation of Automatic Control, IFAC World Congress 2017
 * The 29th Chinese Control and Decision Conference, CCDC 2017
+
 
 
 
