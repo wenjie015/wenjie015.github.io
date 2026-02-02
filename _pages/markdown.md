@@ -13,7 +13,7 @@ redirect_from:
 
 ## 2025年
 
-* 12月24日，我们的论文《Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback》被SCI期刊*European Physical Journal Plus*接收。
+* 12月24日，我们的论文《[Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback](https://doi.org/10.1140/epjp/s13360-025-07258-0)》被SCI期刊*European Physical Journal Plus*接收。
 * 10月17日，**温杰**老师受邀担任2025年度[教育部全国本科毕业论文（设计）抽检评审专家](http://wenjie015.github.io/files/MoEPingShu2025.png)。
 * 9月18日，恭喜**贾辰玉**、**夏光述**两位同学获得[2025年中北大学优秀硕士学位论文](http://grs.nuc.edu.cn/info/1081/8465.htm)。
 * 9月1日，我们的论文《[State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292)》被SCI一区TOP期刊*Energy*接收。
