@@ -23,7 +23,7 @@ Submitted and Preprint Papers
 
 Journal Papers (As first/corresponding author, 22 SCI)
 ======
-1. **Jie Wen**\*, Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback, *European Physical Journal Plus*, accepted, Dec 24, 2025.
+1. **Jie Wen**\*, [Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback](https://doi.org/10.1140/epjp/s13360-025-07258-0), *European Physical Journal Plus*, accepted, Dec 24, 2025. (SCI, IF=2.9, JCR Q2, 中科院三区)
 2. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, [State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit](https://doi.org/10.1016/j.energy.2025.138292), *Energy*, 2025, 335: 138292. (SCI, IF=9.4, JCR Q1, 中科院一区, 中国自动化学会A类期刊)
 3. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, [Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries](https://doi.org/10.1109/TIM.2025.3608342), *IEEE Transactions on Instrumentation & Measurement*, 2025, 74: 3558215. (SCI, IF=5.9, JCR Q1, 中科院二区, 中国自动化学会A+类期刊)
 4. Chunsheng Cui, Guangshu Xia, Chenyu Jia and **Jie Wen**\*, [Remaining Useful Life Interval Prediction for Lithium-Ion Batteries via Periodic Time Series and Trend Filtering Segmentation-Based Fuzzy Information Granulation](https://doi.org/10.3390/wevj16070356), *World Electric Vehicle Journal*, 2025, 16(7): 356. (EI)
