@@ -122,6 +122,8 @@ Reviewer
 	
 Publications
 ======
+* 2026
+  1. **Jie Wen**\*, Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback, *European Physical Journal Plus*, 2026, 141:113. (SCI)
 * 2025
   1. **Jie Wen**\*, Chenyu Jia, and Guangshu Xia, State of health prediction of lithium-ion batteries for driving conditions based on full parameter domain sparrow search algorithm and dual-module bidirectional gated recurrent unit, *Energy*, 2025, 335: 138292. (SCI)
   2. Chenyu Jia, Guangshu Xia, Yuanhao Shi, Jianfang Jia, **Jie Wen**\*, and Jianchao Zeng, Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries, *IEEE Transactions on Instrumentation & Measurement*, 2025, 74: 3558215. (SCI)
