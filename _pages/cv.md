@@ -93,7 +93,8 @@ Reviewer
 	+ Asian Research Journal of Mathematics
 	+ International Journal of Computing and Digital Systems
 * Conferences
-	+ TPC Member, 2026 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces and Smart Environments, IEEE GLOBECOM 2026
+	+ 2026 12th International Conference on Control, Decision and Information Technologies, CoDIT 2026
+ 	+ TPC Member, 2026 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces and Smart Environments, IEEE GLOBECOM 2026
  	+ The 44th Chinese Control Conference, CCC 2025
  	+ TPC Member, 2025 IEEE International Conference on Communications: 2nd Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing, IEEE ICC 2025
  	+ TPC Member, 2025 IEEE Global Communications Conference: Selected Areas in Communications: Reconfigurable Intelligent Surfaces, IEEE GLOBECOM 2025
