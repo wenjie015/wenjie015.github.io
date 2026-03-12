@@ -17,7 +17,7 @@ Books
 1. **Jie Wen**\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, submitted to *Chaos*, July 9, 2025.
 -->
 
-Journal Papers (As first/corresponding author, 22 SCI)
+Journal Papers (As first/corresponding author, 23 SCI)
 ======
 1. **Jie Wen**\*, Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback, *Romanian Journal of Physics*, accepted, 2026. (SCI, IF=1.9, JCR Q2, 中科院四区)
 2. **Jie Wen**\*, [Exponentially stabilizing two-level stochastic quantum systems via improved noise-assisted feedback](https://doi.org/10.1140/epjp/s13360-025-07258-0), *European Physical Journal Plus*, 2026, 141:113. (SCI, IF=2.9, JCR Q2, 中科院三区)
