@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2026年
 
+* 3月1日，我们的论文《Exponential Stabilization of Stochastic Quantum Systems Based on Time-delay State Feedback》被SCI期刊*Romanian Journal of Physics*接收。
 * 1月13日，**温杰**老师被Journal of measurement science and instrumentation评为2025年度[**优秀审稿人**](http://wenjie015.github.io/files/JMSI2025.jpg)。
 
 ## 2025年
