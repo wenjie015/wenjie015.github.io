@@ -52,6 +52,7 @@ Reviewer
  	+ Applied Energy
 	+ Renewable and Sustainable Energy Reviews
  	+ Reliability Engineering & System Safety
+  	+ Information Fusion
 	+ Energy
  	+ Expert Systems with Applications
   	+ Advanced Engineering Informatics
