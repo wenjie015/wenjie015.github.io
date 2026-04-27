@@ -40,6 +40,7 @@ Journals Reviewer
 * Applied Mathematical Modelling
 * IEEE Transactions on Instrumentation & Measurement
 * Electrochimica Acta
+* Green Energy and Intelligent Transportation
 * Journal of Power Sources
 * International Journal of Fatigue
 * Energy and AI
@@ -49,6 +50,7 @@ Journals Reviewer
 * Journal of The Electrochemical Society
 * Results in Engineering
 * Journal of Traffic and Transportation Engineering (English Edition)
+* Energy Conversion and Management: X
 * IEEE Sensors Journal
 * Measurement Science and Technology
 * Journal of Physics D: Applied Physics
