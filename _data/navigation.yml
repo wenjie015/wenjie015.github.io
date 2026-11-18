@@ -13,8 +13,8 @@ main:
   - title: "Grants"
     url: /Grant/
     
-  - title: "Talks"
-    url: /talks/  
+ # - title: "Talks"
+#    url: /talks/  
     
      
   - title: "Review Works"
