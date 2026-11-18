@@ -42,6 +42,7 @@ Journals Reviewer
 * Electrochimica Acta
 * Green Energy and Intelligent Transportation
 * Journal of Power Sources
+* International Journal of Robust and Nonlinear Control
 * International Journal of Fatigue
 * Energy and AI
 * Journal of The Franklin Institute
